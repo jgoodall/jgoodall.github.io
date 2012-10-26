@@ -32,7 +32,12 @@ header address p {
   margin:0px;
 }
 
+header address p.address-block {
+  margin-top:10px;
+}
+
 header #social {
+  margin-top:8px;
   font-size:20px;
 }
 

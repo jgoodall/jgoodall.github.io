@@ -1,2 +1,5 @@
 
+pygments: true
+paginate: 12
+permalink: pretty
 markdown: rdiscount

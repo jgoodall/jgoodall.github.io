@@ -19,11 +19,11 @@ header {
 }
 
 header h1 a {
-  color: #444;
+  color:#444;
 }
 
 header address {
-  font-size:11px;
+  font-size:12px;
   font-style:normal;
   margin:8px0px;
 }
@@ -57,32 +57,32 @@ header ul {
 }
 
 header li {
-  margin:5px 0px;
-  padding-left:10px;
-  background: #f8f8f8;
-  border-radius:5px;
-  border:1px solid #d2d2d2;
+  margin:2px 0px;
   box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
 }
 
 header ul a {
   line-height:1;
-  font-size:13px;
+  font-size:14px;
   color:#999;
+  background:#EFF4FF;
   display:block;
-  padding:12px 0px;
+  padding:8px;
+  border-radius:5px;
+  border:1px solid #d2d2d2;
 }
 
 header ul a:hover {
-  color:#333;
-  background:#eee;
+  color:#96AF38;
+  background:white;
   text-decoration:none;
+  border:1px solid #96AF38;
 }
 
 header ul a:active {
-  -webkit-box-shadow: inset 0px 2px 2px 0px #ddd;
-  -moz-box-shadow: inset 0px 2px 2px 0px #ddd;
-  box-shadow: inset 0px 2px 2px 0px #ddd;
+  -webkit-box-shadow:inset 0px 2px 2px 0px #ddd;
+  -moz-box-shadow:inset 0px 2px 2px 0px #ddd;
+  box-shadow:inset 0px 2px 2px 0px #ddd;
 }
 
 header ul li i {
@@ -93,6 +93,27 @@ section {
   width:720px;
   float:right;
   padding-bottom:50px;
+}
+
+.post-title {
+  color:#666;
+  font-size:26px;
+}
+
+.post-date {
+  color:#bbb;
+  font-size:11px;
+  margin:8px 0px;
+}
+
+.post-tags {
+  color:#bbb;
+  font-size:12px;
+  margin:6px 0px 12px;
+}
+
+.post-tag {
+  margin-right:6px;
 }
 
 footer {
@@ -166,10 +187,10 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;  
+  background:#f8f8f8;  
   border-radius:5px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+  overflow-x:auto;
 }
 
 table {
@@ -206,7 +227,7 @@ strong {
 }
 
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width:960px) {
   
   div.wrapper {
     width:auto;
@@ -241,7 +262,7 @@ strong {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width:720px) {
   body {
     word-wrap:break-word;
   }
@@ -259,7 +280,7 @@ strong {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width:480px) {
   body {
     padding:15px;
   }

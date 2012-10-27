@@ -33,7 +33,7 @@ header address p {
 }
 
 header address p.address-block {
-  margin-top:10px;
+  margin-top:8px;
 }
 
 header #social {
@@ -42,12 +42,11 @@ header #social {
 }
 
 header #social a {
-  padding:0px 5px;
+  padding-right:5px;
 }
 
 header #social a:hover {
   color:#666;
-  padding:0px 5px;
 }
 
 header ul {
@@ -95,6 +94,12 @@ section {
   padding-bottom:50px;
 }
 
+#rss {
+  font-size: 14px;
+  text-align:right
+  margin:4px 0px;
+}
+
 .post-title {
   color:#666;
   font-size:26px;
@@ -114,6 +119,12 @@ section {
 
 .post-tag {
   margin-right:6px;
+}
+
+#copy {
+  font-size:90%;
+  color:#888;
+  margin-top:36px;
 }
 
 footer {

@@ -63,7 +63,9 @@ Goodall, John R. ["Introduction to Visualization for Computer Security."](http:/
 Kopylec, Jason K., Anita D. D'Amico, and John R. Goodall. ["Visualizing Cascading Failures in Critical Cyber Infrastructure."](http://www.springerlink.com/content/u1685022806012m5) In Eric Goetz and Sujeet Shenoi (eds.), Critical Infrastructure Protection. Springer, Boston, MA, 2007, 351-366.
 
 
-## Panels and Presentations
+## Panels, Workshops and  Presentations
+
+Steed, Chad, Thomas Potak, Robert Patton, John R. Goodall, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams," Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.
 
 Goodall, John R. "Visualization for Text Analysis," Keynote. Text Mining 2011, Mesa AZ, April 30, 2011.
 

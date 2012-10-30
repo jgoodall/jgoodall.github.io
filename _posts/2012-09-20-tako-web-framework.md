@@ -31,6 +31,8 @@ A recent [nodeup](http://nodeup.com/fourteen) podcast covered some of these. Fra
 
 The first thing you notice is that there is not a lot of documentation, basically just a minimal readme. The next thing is that it is pretty straightforward to get started. Here is a simple example for a single page app:
 
+{% highlight javascript linenos %}
+
     var fs = require('fs')
       , path = require('path')
       , tako = require('tako')
@@ -60,12 +62,16 @@ The first thing you notice is that there is not a lot of documentation, basicall
       res.end(indexHtml)
     }
 
+{% endhighlight %}
+
 All it does is serve an index file and the static assets. I am using [grunt](https://github.com/cowboy/grunt/) to compile [jade templates](https://github.com/gruntjs/grunt-contrib/blob/master/docs/jade.md) into html, [combine](https://github.com/cowboy/grunt/blob/master/docs/task_concat.md) and [uglify](https://github.com/cowboy/grunt/blob/master/docs/task_min.md) javascript files, and combine and [minify css](https://github.com/gruntjs/grunt-contrib/blob/master/docs/mincss.md) files. So the web server is only serving static files. There is also an html file for 404 errors.
 
 
 ## Socket.io
 
 Tako includes [socket.io](http://socket.io/). To use it:
+
+{% highlight javascript linenos %}
 
     app.sockets.on('connection', function (socket) {
       socket.on('connect', function () {
@@ -75,6 +81,8 @@ Tako includes [socket.io](http://socket.io/). To use it:
         app.sockets.emit('user disconnected') // broadcast
       })
     })
+
+{% endhighlight %}
 
 One thing that took me a few minutes to figure out is how to get to the socket.io settings. I think there are two ways:
 
@@ -98,9 +106,13 @@ Author [isaacs](http://blog.izs.me/) wrote [npm](http://npmjs.org/) and modules 
 
 So back to plugins, the gzip one is pretty straightforward:
 
+{% highlight javascript linenos %}
+
     var gzip = require('tako-gzip')
     app.on('request', gzip)
+
+{% endhighlight %}
     
-Not sure why you wouldnt want to do that.
+Not sure why you **wouldn't** want to do that...
 
 If you listen to the [Nodeup podcast]((http://nodeup.com/) or read the [author's writings]((http://www.mikealrogers.com/),), you know he is a crazy smart, thoughtful, and opinionated developer. I want to use this framework, but I am not a good enough node.js developer to be able to figure out everything it is doing. So I think it is a nice framework, but needs a lot of help getting the same level of documentation as other, more mature projects like express. If I need to put together something quick and relatively straightforward, then I love this, but for larger projects, I am sticking with Express until the documentation for this one gets a bit better. My hunch is that I am not the target audience and this is made for people that are going to dig into the source code and figure out exactly how it is working, but then again, if you are going to do that, then do you really need a web framework?

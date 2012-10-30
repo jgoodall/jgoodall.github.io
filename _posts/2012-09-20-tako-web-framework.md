@@ -31,7 +31,7 @@ A recent [nodeup](http://nodeup.com/fourteen) podcast covered some of these. Fra
 
 The first thing you notice is that there is not a lot of documentation, basically just a minimal readme. The next thing is that it is pretty straightforward to get started. Here is a simple example for a single page app:
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 
     var fs = require('fs')
       , path = require('path')
@@ -71,7 +71,7 @@ All it does is serve an index file and the static assets. I am using [grunt](htt
 
 Tako includes [socket.io](http://socket.io/). To use it:
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 
     app.sockets.on('connection', function (socket) {
       socket.on('connect', function () {
@@ -106,7 +106,7 @@ Author [isaacs](http://blog.izs.me/) wrote [npm](http://npmjs.org/) and modules 
 
 So back to plugins, the gzip one is pretty straightforward:
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 
     var gzip = require('tako-gzip')
     app.on('request', gzip)

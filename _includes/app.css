@@ -22,18 +22,18 @@ header h1 a {
   color:#444;
 }
 
-header address {
+header .author-info {
   font-size:12px;
   font-style:normal;
-  margin:8px0px;
+  margin:8px 0px;
 }
 
-header address p {
+header .author-info p {
   margin:0px;
 }
 
-header address p.address-block {
-  margin-top:8px;
+header .author-info div.block {
+  margin:4px 0px;
 }
 
 header #social {

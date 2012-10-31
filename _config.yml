@@ -1,7 +1,21 @@
+url: jgoodall.github.com
+
 author: John Goodall
 email: jgoodall@ornl.gov
+phone: 865-446-0611
 
+employer: Oak Ridge National Laboratory
+employer_url: https://www.ornl.gov/
+  
+twitter: johnrgoodall
+linkedin: johnrgoodall
+github: jgoodall
+speakerdeck: jgoodall
+
+cv_url: https://dl.dropbox.com/u/298645/goodall_cv.pdf
+
+future: false
+markdown: rdiscount
 pygments: true
 paginate: 12
-permalink: pretty
-markdown: rdiscount
+permalink: /posts/:year/:month/:day/:title

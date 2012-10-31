@@ -1,5 +1,5 @@
 ---
 ---
-{% include pygments.css %}
+{% include pygments-github.css %}
 {% include font-awesome.css %}
 {% include app.css %}

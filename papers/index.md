@@ -18,7 +18,9 @@ D'Amico, Anita D., John R. Goodall, Daniel R. Tesone, and Jason K. Kopylec. ["Vi
 Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusing on Context in Network Traffic Analysis."](http://dx.doi.org/10.1109/MCG.2006.31) IEEE Computer Graphics & Applications 26(2), IEEE Press, 2006, 72-80.
 
 
-## Refereed Conference Publications #
+## Refereed Conference Publications
+
+Harrison, Lane, Riley Spahn, Mike Iannacone, Evan Downing, and John R. Goodall. ["NV: Nessus vulnerability visualization for the web."](https://dl.acm.org/citation.cfm?doid=2379690.2379694) Proceedings of the Symposium on Visualization for Cyber Security (VizSec). ACM International Conference Proceedings Series, 2012, 25-32. 
 
 Goodall, John R., Hassan Radwan and Lenny Halseth. ["Visual Analysis of Code Security."](http://dl.acm.org/authorize?399139) Proceedings of the Symposium on Visualization for Computer Security (VizSec), ACM International Conference Proceedings Series, 2010, 46-51.
 
@@ -66,6 +68,8 @@ Kopylec, Jason K., Anita D. D'Amico, and John R. Goodall. ["Visualizing Cascadin
 
 
 ## Panels, Workshops and  Presentations
+
+Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and John R. Goodall. "situ: Situational Understanding and Discovery for Cyber Attacks." VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.
 
 Steed, Chad, Thomas Potak, Robert Patton, John R. Goodall, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams," Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.
 

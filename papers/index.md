@@ -5,6 +5,8 @@ title: Papers
 
 ## Refereed Journal Publications
 
+Czejdo, Bogdan D., Erik M. Ferragut, John R. Goodall, and Jason Laska. ["Network Intrusion Detection and Visualization Using Aggregations in a Cyber Security Data Warehouse".](http://dx.doi.org/10.4236/ijcns.2012.529069) International Journal of Communications, Network and System Sciences 5(29), Scientific Research Publishing Inc., 2012, 593–602.
+
 Goodall, John R. ["An Evaluation of Visual and Textual Network Analysis Tools."](http://ivi.sagepub.com/content/10/2/145.abstract) Information Visualization 10(2), SAGE Publications, 2011, 145-157.
 
 Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["Developing Expertise for Network Intrusion Detection."](http://dx.doi.org/10.1108/09593840910962186) Information Technology & People 22(2), Emerald Group Publishing Limited, 2009, 92-108. 

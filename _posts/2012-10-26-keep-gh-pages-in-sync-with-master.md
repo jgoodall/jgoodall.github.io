@@ -2,6 +2,7 @@
 layout: post
 title: Keep gh-pages in sync with master
 tags: 
+  - git
   - github
 ---
 

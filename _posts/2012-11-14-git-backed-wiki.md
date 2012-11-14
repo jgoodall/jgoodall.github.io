@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git backed wiki: Gollum
+title: Git backed wiki - Gollum
 tags: 
   - git
   - github

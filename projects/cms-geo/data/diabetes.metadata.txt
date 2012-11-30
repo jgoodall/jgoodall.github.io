@@ -1,0 +1,18 @@
+Source ID:125
+Short Description:Diabetes
+Full Description:Percent of adults that report having diabetes
+
+Data Category:Diabetes; Diabetes
+Source:Behavioral Risk Factor Surveillance System
+Initiative:Community Health Status Indicators 2008
+Numerator Description:Sample respondents age 18+ who report being told they have diabetes
+Denominator Description:Sample respondents age 18+ with valid response for diabetes question
+
+Value Label:percent
+
+Methodology Notes1:Based on the BRFSS question: "Have you ever been told by a doctor that you have diabetes  (If "Yes" and respondent is female, ask "Was this only when you were pregnant?"
+Methodology Notes2:Data is available for all years from 2001-2009 for all states.
+Methodology Notes3:Estimates based on fewer than 50 cases or with a confidence interval half-width of 10% or more ((upper CI-lower CI/100) >10) are considered unreliable and are not displayed.
+
+Age:aged 18 years and over
+Characteristic Of Birth:

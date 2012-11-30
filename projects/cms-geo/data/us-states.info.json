@@ -1,0 +1,869 @@
+[
+    {
+        "woeid": 2347575,
+        "name": "Kansas",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347575",
+        "type": "Point",
+        "coordinates": [
+            -98.320229,
+            38.498089
+        ],
+        "bbox": [
+            -102.051826,
+            36.992901,
+            -94.588638,
+            40.003281
+        ]
+    },
+    {
+        "woeid": 2347595,
+        "name": "Oklahoma",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347595",
+        "type": "Point",
+        "coordinates": [
+            -98.521019,
+            35.309139
+        ],
+        "bbox": [
+            -103.00264,
+            33.615978,
+            -94.431374,
+            37.0023
+        ]
+    },
+    {
+        "woeid": 2347584,
+        "name": "Missouri",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347584",
+        "type": "Point",
+        "coordinates": [
+            -92.436592,
+            38.2589
+        ],
+        "bbox": [
+            -95.774429,
+            35.90416,
+            -89.098747,
+            40.613628
+        ]
+    },
+    {
+        "woeid": 2347562,
+        "name": "Arkansas",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347562",
+        "type": "Point",
+        "coordinates": [
+            -92.130547,
+            34.7519
+        ],
+        "bbox": [
+            -94.619247,
+            33.004181,
+            -89.641853,
+            36.499619
+        ]
+    },
+    {
+        "woeid": 2347574,
+        "name": "Iowa",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347574",
+        "type": "Point",
+        "coordinates": [
+            -93.389893,
+            41.938251
+        ],
+        "bbox": [
+            -96.639427,
+            40.375469,
+            -90.14035,
+            43.50103
+        ]
+    },
+    {
+        "woeid": 2347586,
+        "name": "Nebraska",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347586",
+        "type": "Point",
+        "coordinates": [
+            -99.680946,
+            41.500751
+        ],
+        "bbox": [
+            -104.053658,
+            39.999859,
+            -95.308243,
+            43.001652
+        ]
+    },
+    {
+        "woeid": 2347572,
+        "name": "Illinois",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347572",
+        "type": "Point",
+        "coordinates": [
+            -89.504089,
+            39.739262
+        ],
+        "bbox": [
+            -91.512947,
+            36.97015,
+            -87.495239,
+            42.508362
+        ]
+    },
+    {
+        "woeid": 2347583,
+        "name": "Mississippi",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347583",
+        "type": "Point",
+        "coordinates": [
+            -89.873741,
+            32.585072
+        ],
+        "bbox": [
+            -91.649887,
+            30.173901,
+            -88.097603,
+            34.996239
+        ]
+    },
+    {
+        "woeid": 2347602,
+        "name": "Texas",
+        "areaRank": 12,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347602",
+        "type": "Point",
+        "coordinates": [
+            -100.077148,
+            31.1689
+        ],
+        "bbox": [
+            -106.64595,
+            25.83713,
+            -93.508347,
+            36.50066
+        ]
+    },
+    {
+        "woeid": 2347577,
+        "name": "Louisiana",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347577",
+        "type": "Point",
+        "coordinates": [
+            -91.523819,
+            30.974199
+        ],
+        "bbox": [
+            -94.043411,
+            28.92869,
+            -88.816452,
+            33.019711
+        ]
+    },
+    {
+        "woeid": 2347576,
+        "name": "Kentucky",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347576",
+        "type": "Point",
+        "coordinates": [
+            -85.69091,
+            37.822449
+        ],
+        "bbox": [
+            -89.416779,
+            36.496819,
+            -81.965042,
+            39.148071
+        ]
+    },
+    {
+        "woeid": 2347564,
+        "name": "Colorado",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347564",
+        "type": "Point",
+        "coordinates": [
+            -105.550957,
+            38.997921
+        ],
+        "bbox": [
+            -109.060387,
+            36.992321,
+            -102.041542,
+            41.003521
+        ]
+    },
+    {
+        "woeid": 2347600,
+        "name": "South Dakota",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347600",
+        "type": "Point",
+        "coordinates": [
+            -100.247063,
+            44.212559
+        ],
+        "bbox": [
+            -104.057693,
+            42.479641,
+            -96.436432,
+            45.94548
+        ]
+    },
+    {
+        "woeid": 2347573,
+        "name": "Indiana",
+        "areaRank": 10,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347573",
+        "type": "Point",
+        "coordinates": [
+            -86.441048,
+            39.766178
+        ],
+        "bbox": [
+            -88.097549,
+            37.771679,
+            -84.784554,
+            41.760681
+        ]
+    },
+    {
+        "woeid": 2347601,
+        "name": "Tennessee",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347601",
+        "type": "Point",
+        "coordinates": [
+            -85.978737,
+            35.83073
+        ],
+        "bbox": [
+            -90.310547,
+            34.98317,
+            -81.646942,
+            36.678299
+        ]
+    },
+    {
+        "woeid": 2347608,
+        "name": "Wisconsin",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347608",
+        "type": "Point",
+        "coordinates": [
+            -90.101257,
+            44.7272
+        ],
+        "bbox": [
+            -92.889259,
+            42.49192,
+            -86.805183,
+            47.080799
+        ]
+    },
+    {
+        "woeid": 2347559,
+        "name": "Alabama",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347559",
+        "type": "Point",
+        "coordinates": [
+            -86.680733,
+            32.614361
+        ],
+        "bbox": [
+            -88.473091,
+            30.220831,
+            -84.888382,
+            35.007889
+        ]
+    },
+    {
+        "woeid": 2347590,
+        "name": "New Mexico",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347590",
+        "type": "Point",
+        "coordinates": [
+            -106.026123,
+            34.166119
+        ],
+        "bbox": [
+            -109.050232,
+            31.332081,
+            -103.002007,
+            37.00016
+        ]
+    },
+    {
+        "woeid": 2347582,
+        "name": "Minnesota",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347582",
+        "type": "Point",
+        "coordinates": [
+            -93.36586,
+            46.44231
+        ],
+        "bbox": [
+            -97.239906,
+            43.499321,
+            -89.491821,
+            49.385311
+        ]
+    },
+    {
+        "woeid": 2347581,
+        "name": "Michigan",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347581",
+        "type": "Point",
+        "coordinates": [
+            -84.621674,
+            43.742699
+        ],
+        "bbox": [
+            -90.41848,
+            41.696041,
+            -82.418381,
+            48.190979
+        ]
+    },
+    {
+        "woeid": 2347609,
+        "name": "Wyoming",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347609",
+        "type": "Point",
+        "coordinates": [
+            -107.554047,
+            43.00029
+        ],
+        "bbox": [
+            -111.056259,
+            40.994598,
+            -104.051842,
+            45.00597
+        ]
+    },
+    {
+        "woeid": 2347594,
+        "name": "Ohio",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347594",
+        "type": "Point",
+        "coordinates": [
+            -82.669472,
+            40.190331
+        ],
+        "bbox": [
+            -84.820236,
+            38.403141,
+            -80.5187,
+            41.97752
+        ]
+    },
+    {
+        "woeid": 2347593,
+        "name": "North Dakota",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347593",
+        "type": "Point",
+        "coordinates": [
+            -100.301849,
+            47.467838
+        ],
+        "bbox": [
+            -104.048943,
+            45.934971,
+            -96.554764,
+            49.000721
+        ]
+    },
+    {
+        "woeid": 2347569,
+        "name": "Georgia",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347569",
+        "type": "Point",
+        "coordinates": [
+            -83.222954,
+            32.67828
+        ],
+        "bbox": [
+            -85.60524,
+            30.35565,
+            -80.84066,
+            35.0009
+        ]
+    },
+    {
+        "woeid": 2347607,
+        "name": "West Virginia",
+        "areaRank": 10,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347607",
+        "type": "Point",
+        "coordinates": [
+            -80.181679,
+            38.919739
+        ],
+        "bbox": [
+            -82.644432,
+            37.201691,
+            -77.718933,
+            40.637798
+        ]
+    },
+    {
+        "woeid": 2347605,
+        "name": "Virginia",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347605",
+        "type": "Point",
+        "coordinates": [
+            -79.771271,
+            38.003349
+        ],
+        "bbox": [
+            -83.675247,
+            36.540791,
+            -75.24176,
+            39.465912
+        ]
+    },
+    {
+        "woeid": 2347603,
+        "name": "Utah",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347603",
+        "type": "Point",
+        "coordinates": [
+            -111.547318,
+            39.499741
+        ],
+        "bbox": [
+            -114.053123,
+            36.997799,
+            -109.041519,
+            42.001678
+        ]
+    },
+    {
+        "woeid": 2347592,
+        "name": "North Carolina",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347592",
+        "type": "Point",
+        "coordinates": [
+            -80.019547,
+            35.21962
+        ],
+        "bbox": [
+            -84.321732,
+            33.840149,
+            -75.460449,
+            36.588322
+        ]
+    },
+    {
+        "woeid": 2347599,
+        "name": "South Carolina",
+        "areaRank": 10,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347599",
+        "type": "Point",
+        "coordinates": [
+            -80.947403,
+            33.626461
+        ],
+        "bbox": [
+            -83.353943,
+            32.037369,
+            -78.540863,
+            35.215549
+        ]
+    },
+    {
+        "woeid": 2347561,
+        "name": "Arizona",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347561",
+        "type": "Point",
+        "coordinates": [
+            -111.930702,
+            34.167881
+        ],
+        "bbox": [
+            -114.816422,
+            31.33201,
+            -109.044991,
+            37.003738
+        ]
+    },
+    {
+        "woeid": 2347585,
+        "name": "Montana",
+        "areaRank": 12,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347585",
+        "type": "Point",
+        "coordinates": [
+            -110.04454,
+            46.679489
+        ],
+        "bbox": [
+            -116.049622,
+            44.35788,
+            -104.039467,
+            49.001099
+        ]
+    },
+    {
+        "woeid": 2347567,
+        "name": "District of Columbia",
+        "areaRank": 5,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347567",
+        "type": "Point",
+        "coordinates": [
+            -77.014648,
+            38.89381
+        ],
+        "bbox": [
+            -77.119766,
+            38.791672,
+            -76.909538,
+            38.99596
+        ]
+    },
+    {
+        "woeid": 2347597,
+        "name": "Pennsylvania",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347597",
+        "type": "Point",
+        "coordinates": [
+            -77.604538,
+            40.994709
+        ],
+        "bbox": [
+            -80.519508,
+            39.719879,
+            -74.689583,
+            42.269531
+        ]
+    },
+    {
+        "woeid": 2347568,
+        "name": "Florida",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347568",
+        "type": "Point",
+        "coordinates": [
+            -81.541061,
+            27.9758
+        ],
+        "bbox": [
+            -87.634789,
+            24.521,
+            -80.030739,
+            31.00104
+        ]
+    },
+    {
+        "woeid": 2347579,
+        "name": "Maryland",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347579",
+        "type": "Point",
+        "coordinates": [
+            -75.923813,
+            38.823502
+        ],
+        "bbox": [
+            -79.487198,
+            37.912048,
+            -75.04924,
+            39.723148
+        ]
+    },
+    {
+        "woeid": 2347566,
+        "name": "Delaware",
+        "areaRank": 8,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347566",
+        "type": "Point",
+        "coordinates": [
+            -75.418762,
+            39.145271
+        ],
+        "bbox": [
+            -75.78862,
+            38.45105,
+            -75.048912,
+            39.839481
+        ]
+    },
+    {
+        "woeid": 2347591,
+        "name": "New York",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347591",
+        "type": "Point",
+        "coordinates": [
+            -76.501671,
+            42.85535
+        ],
+        "bbox": [
+            -79.761971,
+            40.496029,
+            -71.856247,
+            45.01281
+        ]
+    },
+    {
+        "woeid": 2347571,
+        "name": "Idaho",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347571",
+        "type": "Point",
+        "coordinates": [
+            -114.14328,
+            45.494411
+        ],
+        "bbox": [
+            -117.243134,
+            41.987961,
+            -111.043427,
+            49.000851
+        ]
+    },
+    {
+        "woeid": 2347587,
+        "name": "Nevada",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347587",
+        "type": "Point",
+        "coordinates": [
+            -117.022583,
+            38.502048
+        ],
+        "bbox": [
+            -120.005798,
+            35.002319,
+            -114.039368,
+            42.00177
+        ]
+    },
+    {
+        "woeid": 2347589,
+        "name": "New Jersey",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347589",
+        "type": "Point",
+        "coordinates": [
+            -74.726707,
+            40.14323
+        ],
+        "bbox": [
+            -75.559753,
+            38.928902,
+            -73.893677,
+            41.357559
+        ]
+    },
+    {
+        "woeid": 2347563,
+        "name": "California",
+        "areaRank": 12,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347563",
+        "type": "Point",
+        "coordinates": [
+            -119.270233,
+            37.271881
+        ],
+        "bbox": [
+            -124.409622,
+            32.53429,
+            -114.130836,
+            42.00946
+        ]
+    },
+    {
+        "woeid": 2347565,
+        "name": "Connecticut",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347565",
+        "type": "Point",
+        "coordinates": [
+            -72.75753,
+            41.517761
+        ],
+        "bbox": [
+            -73.72789,
+            40.980511,
+            -71.78717,
+            42.050442
+        ]
+    },
+    {
+        "woeid": 2347604,
+        "name": "Vermont",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347604",
+        "type": "Point",
+        "coordinates": [
+            -72.451653,
+            43.871651
+        ],
+        "bbox": [
+            -73.438202,
+            42.72683,
+            -71.465103,
+            45.016479
+        ]
+    },
+    {
+        "woeid": 2347598,
+        "name": "Rhode Island",
+        "areaRank": 7,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347598",
+        "type": "Point",
+        "coordinates": [
+            -71.55587,
+            41.661221
+        ],
+        "bbox": [
+            -71.88652,
+            41.146099,
+            -71.120682,
+            42.019058
+        ]
+    },
+    {
+        "woeid": 2347580,
+        "name": "Massachusetts",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347580",
+        "type": "Point",
+        "coordinates": [
+            -71.718178,
+            42.184189
+        ],
+        "bbox": [
+            -73.508141,
+            41.238129,
+            -69.92823,
+            42.886768
+        ]
+    },
+    {
+        "woeid": 2347588,
+        "name": "New Hampshire",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347588",
+        "type": "Point",
+        "coordinates": [
+            -71.634201,
+            44.001179
+        ],
+        "bbox": [
+            -72.557281,
+            42.697071,
+            -70.708572,
+            45.305279
+        ]
+    },
+    {
+        "woeid": 2347596,
+        "name": "Oregon",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347596",
+        "type": "Point",
+        "coordinates": [
+            -120.514839,
+            44.115589
+        ],
+        "bbox": [
+            -124.566422,
+            41.99197,
+            -116.463257,
+            46.293812
+        ]
+    },
+    {
+        "woeid": 2347606,
+        "name": "Washington",
+        "areaRank": 11,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347606",
+        "type": "Point",
+        "coordinates": [
+            -120.832718,
+            47.274319
+        ],
+        "bbox": [
+            -124.749397,
+            45.543732,
+            -116.916054,
+            49.00491
+        ]
+    },
+    {
+        "woeid": 2347578,
+        "name": "Maine",
+        "areaRank": 10,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347578",
+        "type": "Point",
+        "coordinates": [
+            -69.012489,
+            45.262321
+        ],
+        "bbox": [
+            -71.084343,
+            43.064812,
+            -66.940643,
+            47.459831
+        ]
+    },
+    {
+        "woeid": 2347560,
+        "name": "Alaska",
+        "areaRank": 13,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347560",
+        "type": "Point",
+        "coordinates": [
+            -149.105682,
+            63.036541
+        ],
+        "bbox": [
+            -179.150558,
+            51.209721,
+            -129.979507,
+            71.441048
+        ]
+    },
+    {
+        "woeid": 2347570,
+        "name": "Hawaii",
+        "areaRank": 9,
+        "yahooURI": "http://where.yahooapis.com/v1/place/2347570",
+        "type": "Point",
+        "coordinates": [
+            -155.434143,
+            19.59009
+        ],
+        "bbox": [
+            -160.247086,
+            18.91172,
+            -154.806625,
+            22.23559
+        ]
+    }
+]

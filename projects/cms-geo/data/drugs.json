@@ -1,0 +1,67 @@
+[
+    {
+        "Locale": "National",
+        "Locale Level": "National",
+        "Locale State FIPS Code": null,
+        "Locale County FIPS Code": null,
+        "Year": 2008,
+        "Numeric Value": 23.90
+    },
+    {
+        "Locale": "Alabama",
+        "Locale Level": "State",
+        "Locale State FIPS Code": "01",
+        "Locale County FIPS Code": null,
+        "Year": 2008,
+        "Numeric Value": 21.00
+    },
+    {
+        "Locale": "New York",
+        "Locale Level": "State",
+        "Locale State FIPS Code": "36",
+        "Locale County FIPS Code": null,
+        "Year": 2008,
+        "Numeric Value": 12.00
+    },
+    {
+        "Locale": "Tennessee",
+        "Locale Level": "State",
+        "Locale State FIPS Code": "47",
+        "Locale County FIPS Code": null,
+        "Year": 2008,
+        "Numeric Value": 24.00
+    },
+    {
+        "Locale": "Knox",
+        "Locale Level": "County",
+        "Locale State FIPS Code": null,
+        "Locale County FIPS Code": "47093",
+        "Year": 2008,
+        "Numeric Value": 20.00
+    },
+    {
+        "Locale": "Blount",
+        "Locale Level": "County",
+        "Locale State FIPS Code": null,
+        "Locale County FIPS Code": "47009",
+        "Year": 2008,
+        "Numeric Value": 28.00
+    },
+    {
+        "Locale": "Albany",
+        "Locale Level": "County",
+        "Locale State FIPS Code": null,
+        "Locale County FIPS Code": "36001",
+        "Year": 2008,
+        "Numeric Value": 12.00
+    },
+    {
+        "Locale": "San Bernardino",
+        "Locale Level": "County",
+        "Locale State FIPS Code": null,
+        "Locale County FIPS Code": "06071",
+        "Year": 2008,
+        "Numeric Value": 10.00
+    }
+
+]

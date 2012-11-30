@@ -1,0 +1,62 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>CMS Visualizations</title>
+    <meta name="description" content="Data Visualizations for Health Indicators">
+    <meta name="author" content="jgoodall@ornl.gov">
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="stylesheet" href="css/style.css">
+
+	<script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+<body>
+
+  <div id="container">
+    <header>
+        CMS Visualizations
+    </header>
+    <div id="main" role="main">
+
+    <ul>
+        <li><a href="diabetes.html">Diabetes rate among all adults</a></li>
+        <li><a href="diabetes-medicare.html">Diabetes rate among Medicare beneficiaries</a></li>
+        <li><a href="obesity.html">Obesity rate among all adults</a></li>
+        <br />
+        <li><a href="drugs.html">Prescription drugs</a> (fake data, just using for testing counties)</li>
+    </ul>
+
+    <div style="font-size: 11px; width: 500px; margin: 50px 10px 10px 10px; padding: 10px; background-color: #eaeaea; color: #333; border: 1px solid #333;">
+    Visualizations require a modern browser - <strong>IE versions 8 and lower</strong> do not work correctly since they do not fully support the visualization and interaction technologies required. To support IE 8 and below, please install <a href="http://www.google.com/chromeframe/">Google Chrome Frame</a>. The installer will now run at Admin level by default and will fall back to Non-Admin mode if the user does not have the necessary permissions on their machine.
+    </div>
+
+    </div>
+    <footer>
+        ORNL Computational Sciences and Engineering division
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+
+
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+</body>
+</html>

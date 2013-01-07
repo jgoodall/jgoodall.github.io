@@ -52,7 +52,7 @@ header #social a:hover {
 header ul {
   list-style:none;
   padding:0px;
-  width:130px;
+  width:150px;
 }
 
 header li {
@@ -64,7 +64,7 @@ header ul a {
   line-height:1;
   font-size:14px;
   color:#999;
-  background:#EFF4FF;
+  background:#F4FF4FF;
   display:block;
   padding:8px;
   border-radius:5px;

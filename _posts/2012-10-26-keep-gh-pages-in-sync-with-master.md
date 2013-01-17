@@ -19,6 +19,8 @@ Here are the steps to set this up. This assumes you dont have a gh-pages branch 
     $ git push origin master gh-pages
     $ git checkout master
 
+*Update: you may have to do `git mv -k deploy/* .` if you have empty directories in your `deploy` directory*
+
 First, this creates and checks out the new `gh-pages` branch. Then remove all of the directories and files except the directory containing the web site (i.e. `deploy`). Move those files into the root directory and commit. Push the changes and go back to master. 
 
 Now, when you edit the files in `master`, you can merge them into the `gh-pages` branch by doing this:

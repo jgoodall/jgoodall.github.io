@@ -52,7 +52,7 @@ header #social a:hover {
 header ul {
   list-style:none;
   padding:0px;
-  width:150px;
+  width:140px;
 }
 
 header li {
@@ -62,20 +62,20 @@ header li {
 
 header ul a {
   line-height:1;
-  font-size:14px;
-  color:#999;
-  background:#F4F4F9;
+  font-size:16px;
+  color:#888;
+  background:#fbfbfb;
   display:block;
-  padding:8px;
+  padding:8px 10px 8px 20px;
   border-radius:5px;
-  border:1px solid #d2d2d2;
+  border:1px solid #bbb;
 }
 
 header ul a:hover {
-  color:#96AF38;
+  color:#333;
   background:white;
   text-decoration:none;
-  border:1px solid #96AF38;
+  border:1px solid #333;
 }
 
 header ul a:active {
@@ -86,7 +86,30 @@ header ul a:active {
 
 header ul li i {
   float:right;
+  font-size: .9em;
+  color: #999;
 }
+
+#home #nav-home a,
+#posts #nav-posts a,
+#projects #nav-projects a,
+#papers #nav-papers a,
+#about #nav-about a {
+  background-color:#688C8C;
+  color:#fff;
+  border:1px solid #fff;
+}
+#home #nav-home a:hover,
+#posts #nav-posts a:hover,
+#projects #nav-projects a:hover,
+#papers #nav-papers a:hover,
+#about #nav-about a:hover {
+  color:#333;
+  background:white;
+  text-decoration:none;
+  border:1px solid #333;
+}
+
 
 section {
   width:720px;

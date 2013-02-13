@@ -69,7 +69,7 @@ Kopylec, Jason K., Anita D. D'Amico, and John R. Goodall. ["Visualizing Cascadin
 
 ## Panels, Workshops and  Presentations
 
-Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and John R. Goodall. "situ: Situational Understanding and Discovery for Cyber Attacks." VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.
+Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and John R. Goodall. ["situ: Situational Understanding and Discovery for Cyber Attacks."](http://dx.doi.org/10.1109/VAST.2012.6400503) VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.
 
 Steed, Chad, Thomas Potak, Robert Patton, John R. Goodall, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams," Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.
 

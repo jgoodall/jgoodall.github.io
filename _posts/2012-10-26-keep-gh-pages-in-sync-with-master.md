@@ -8,13 +8,14 @@ tags:
 
 I wanted to add the source for a web site to the `master` branch of a [project](http://ornl-visual-analytics.github.com/stucco-data/), build static html from that, and keep those changes in sync with the `gh-pages` branch to automatically deploy to [github pages](http://pages.github.com/) on each commit.
 
-Here are the steps to set this up. This assumes you dont have a gh-pages branch already (if you do, [delete it](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)). I was using the `deploy` directory in `master` branch as the source for the `gh-pages` branch, so modify that directory as needed. Here are the steps:
+Here are the steps to set this up. This assumes you dont have a gh-pages branch already (if you do, [delete it](http://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-in-github)). I was using the `deploy` directory in `master` branch as the source for the `gh-pages` branch, so modify that directory as needed. Here are the steps (you should be in the root of your project when you start this sequence):
 
     $ git checkout -b gh-pages
     $ ls | grep -v deploy | xargs rm -rf
     $ git mv deploy/* .
     $ rmdir deploy
     $ git add .
+    $ git ls-files --deleted | while read FILE; do git rm "$FILE"; done
     $ git commit -a -m "Initial commit in pages branch"
     $ git push origin master gh-pages
     $ git checkout master
@@ -23,7 +24,7 @@ Here are the steps to set this up. This assumes you dont have a gh-pages branch 
 
 First, this creates and checks out the new `gh-pages` branch. Then remove all of the directories and files except the directory containing the web site (i.e. `deploy`). Move those files into the root directory and commit. Push the changes and go back to master. 
 
-Now, when you edit the files in `master`, you can merge them into the `gh-pages` branch by doing this:
+Now, when you edit the files in `master`, you can merge them into the `gh-pages` branch by doing this (you should be in the root of your project when you start this sequence):
 
     $ git checkout gh-pages
     $ git merge -s subtree master

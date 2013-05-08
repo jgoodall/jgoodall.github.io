@@ -25,7 +25,7 @@ header h1 a {
 header .author-info {
   font-size:12px;
   font-style:normal;
-  margin:8px 0px;
+  margin:10px 0px;
 }
 
 header .author-info p {
@@ -33,11 +33,11 @@ header .author-info p {
 }
 
 header .author-info div.block {
-  margin:4px 0px;
+  margin:6px 0px;
 }
 
 header #social {
-  margin-top:8px;
+  margin-top:12px;
   font-size:20px;
 }
 
@@ -49,45 +49,36 @@ header #social a:hover {
   color:#666;
 }
 
-header ul {
+#nav {
+  margin: 12px 0px 24px 0px;
+  text-align:right;
+}
+
+#nav ul, li {
   list-style:none;
-  padding:0px;
-  width:140px;
+  display:inline;
+  padding:0;
+  margin:0;
 }
 
-header li {
-  margin:2px 0px;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
+#nav ul li {
+  margin-right:25px;
 }
 
-header ul a {
-  line-height:1;
+#nav ul a {
+  line-height:1.1;
   font-size:16px;
-  color:#888;
-  background:#fbfbfb;
-  display:block;
-  padding:8px 10px 8px 20px;
-  border-radius:5px;
-  border:1px solid #bbb;
-}
-
-header ul a:hover {
-  color:#333;
-  background:white;
+  color:#666;
   text-decoration:none;
-  border:1px solid #333;
 }
 
-header ul a:active {
-  -webkit-box-shadow:inset 0px 2px 2px 0px #ddd;
-  -moz-box-shadow:inset 0px 2px 2px 0px #ddd;
-  box-shadow:inset 0px 2px 2px 0px #ddd;
+#nav ul a:hover {
+  color:#B1C2B3;
+  text-decoration:underline;
 }
 
-header ul li i {
-  float:right;
-  font-size: .9em;
-  color: #999;
+#nav ul a:active {
+  color:#778691;
 }
 
 #home #nav-home a,
@@ -95,23 +86,20 @@ header ul li i {
 #projects #nav-projects a,
 #papers #nav-papers a,
 #about #nav-about a {
-  background-color:#688C8C;
-  color:#fff;
-  border:1px solid #fff;
+  color:#333;
+  font-weight:700;
 }
 #home #nav-home a:hover,
 #posts #nav-posts a:hover,
 #projects #nav-projects a:hover,
 #papers #nav-papers a:hover,
 #about #nav-about a:hover {
-  color:#333;
-  background:white;
-  text-decoration:none;
-  border:1px solid #333;
+  color:#B1C2B3;
+  text-decoration:underline;
 }
 
 
-section {
+#main {
   width:720px;
   float:right;
   padding-bottom:50px;
@@ -142,21 +130,6 @@ section {
 
 .post-tag {
   margin-right:6px;
-}
-
-#copy {
-  font-size:90%;
-  color:#888;
-  margin-top:36px;
-}
-
-footer {
-  width:200px;
-  font-size:10pt;
-  color:#888;
-  float:left;
-  position:fixed;
-  bottom:10px;
 }
 
 
@@ -227,24 +200,9 @@ pre {
   overflow-x:auto;
 }
 
-table {
-  width:100%;
-  border-collapse:collapse;
-}
-
-th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
-}
-
 dt {
   color:#444;
   font-weight:700;
-}
-
-th {
-  color:#444;
 }
 
 img {
@@ -263,65 +221,104 @@ strong {
 
 @media print, screen and (max-width:960px) {
   
-  div.wrapper {
-    width:auto;
-    margin:0;
+  .wrapper {
+    width:768px;
   }
   
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+  #main {
+    width:520px;
   }
-  
-  header {
-    padding-right:320px;
+
+  #nav ul a {
+    font-size:1.3em;
   }
-  
+
+  body {
+    word-wrap:break-word;
+    padding:10px;
+  }
+  
+  header {
+    padding:0;
+  }
+  
+  pre, code {
+    word-wrap:normal;
+  }
+
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #eee;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
-  
-  header a small {
-    display:inline;
+
+}
+
+@media print, screen and (max-width: 768px) {
+
+  .wrapper {
+    width:700px;
   }
   
+  #main {
+    width:480px;
+  }
+
+  #nav li {
+    margin-right:20px;
+  }
+
+  #nav ul a {
+    font-size:1.2em;
+  }
+
+}
+
+@media print, screen and (max-width: 480px) {
+
+  body {
+    padding:5px 6px;
+  }
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, #main {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
   header ul {
     position:absolute;
     right:50px;
     top:52px;
   }
+
+  #nav {
+    margin: 10px 0px;
+    text-align:left;
+  }
+
 }
 
-@media print, screen and (max-width:720px) {
-  body {
-    word-wrap:break-word;
-  }
-  
-  header {
-    padding:0;
-  }
-  
-  header ul, header p.view {
-    position:static;
-  }
-  
-  pre, code {
-    word-wrap:normal;
-  }
-}
+@media print, screen and (max-width: 320px) {
 
-@media print, screen and (max-width:480px) {
-  body {
-    padding:15px;
+  body {
+    padding:5px 2px;
+  }
+
+  #nav ul a {
+    font-size:1em;
   }
-  
-  header ul {
-    display:none;
+
+  #nav ul li {
+    margin-right:8px;
   }
+
 }
 
 @media print {

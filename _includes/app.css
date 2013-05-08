@@ -111,20 +111,33 @@ header #social a:hover {
   margin:4px 0px;
 }
 
+.twitter-timeline {
+  width: 100%;
+}
+
+ul.posts {
+  list-style:none;
+}
+
+ul.posts li {
+  text-indent:-40px;
+}
+
 .post-title {
   color:#666;
   font-size:26px;
 }
 
 .post-date {
-  color:#bbb;
-  font-size:11px;
-  margin:8px 0px;
+  color:#aaa;
+  font-size:0.8em;
+  font-weight:400;
+  margin-left:12px;
 }
 
 .post-tags {
   color:#bbb;
-  font-size:12px;
+  font-size:0.9em;
   margin:6px 0px 12px;
 }
 
@@ -198,11 +211,6 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x:auto;
-}
-
-dt {
-  color:#444;
-  font-weight:700;
 }
 
 img {

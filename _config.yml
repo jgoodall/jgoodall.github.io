@@ -16,7 +16,7 @@ tumblr: johnrgoodall
 cv_url: https://dl.dropbox.com/u/298645/goodall_cv.pdf
 
 future: false
-markdown: rdiscount
+markdown: maruku
 pygments: true
 paginate: 10
 permalink: /posts/:year/:month/:day/:title

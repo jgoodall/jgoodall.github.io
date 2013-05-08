@@ -111,6 +111,13 @@ header #social a:hover {
   margin:4px 0px;
 }
 
+.index-post-date {
+  color:#aaa;
+  font-size:0.8em;
+  font-weight:400;
+  margin-left:12px;
+}
+
 .twitter-timeline {
   width: 100%;
 }
@@ -130,9 +137,7 @@ ul.posts li {
 
 .post-date {
   color:#aaa;
-  font-size:0.8em;
-  font-weight:400;
-  margin-left:12px;
+  font-size:0.9em;
 }
 
 .post-tags {
@@ -143,6 +148,10 @@ ul.posts li {
 
 .post-tag {
   margin-right:6px;
+}
+
+.post-separator {
+  margin-bottom:25px;
 }
 
 

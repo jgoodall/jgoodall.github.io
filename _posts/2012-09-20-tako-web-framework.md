@@ -5,14 +5,17 @@ tags:
   - nodejs
 ---
 
-## Node.js web frameworks
+There are a bunch of [node.js](http://nodejs.org/) web frameworks. They provide support for routing, templating, and  [Express](http://expressjs.com/) is probably the most common and mature. It uses [Connect](http://www.senchalabs.org/connect/) for its middleware component. It is pretty awesome, with lots of middleware available (try `npm search connect-` and `npm search express-`). It has been around for a while, is probably the most heavily used, and is under current development. It is flexible in terms of the [template engines](http://expressjs.com/guide.html#template-engines) that you use, but using [jade](), which makes writing html not suck nearly as much as usual, is installed by default. (There is also another library, [consolidate](https://github.com/visionmedia/consolidate.js), from the same [ridiculously prolific developer](http://tjholowaychuk.com/) of express and jade for hooking into a whole bunch of other template engines in express.)
 
-There are a bunch of [node.js](http://nodejs.org/) web frameworks. They provide support for routing, templating, and  [Express](http://expressjs.com/) is probably the most common and mature. It uses [Connect](http://www.senchalabs.org/connect/) for its middleware component. It is pretty awesome, with lots of middleware available (try `npm search connect-` and `npm search express-`). It has been around for a while, is probably the most heavily used, and is under current development. It is flexible in terms of the [template engines](http://expressjs.com/guide.html#template-engines) that you use, but using [jade](), which makes writing html not suck nearly as much as usual, is installed by default. (There is also another library, [consolidate](https://github.com/visionmedia/consolidate.js), from the same [ridiculously prolific developer](http://tjholowaychuk.com/) of express and jade for hooking into a whole bunch of other template engines in express.) There are other frameworks out there too:
+There are other frameworks out there too:
 
-  * [Geddy](http://geddyjs.org/) is a monolithic solution from the folks at [yammer](http://yammer.com/).
-  * [Flatiron](http://flatironjs.org/), from the awesome folks at [nodejitsu](http://nodejitsu.com/), is a bunch of small libraries that can be composed to make web or CLI apps. Pretty cool that you can use the same components to build both web and CLI apps. I've used their logger, [winston](http://flatironjs.org/#logging), before and it just works.
-  * [Restify](http://mcavage.github.com/node-restify/) is a libray with a similar feel to express for building RESTful APIs.
-  * [ApiServer](http://kilianc.github.com/node-apiserver/) is a	another library for building an API server.
+* [Geddy](http://geddyjs.org/) is a monolithic solution from the folks at [yammer](http://yammer.com/).
+
+* [Flatiron](http://flatironjs.org/), from the awesome folks at [nodejitsu](http://nodejitsu.com/), is a bunch of small libraries that can be composed to make web or CLI apps. Pretty cool that you can use the same components to build both web and CLI apps. I've used their logger, [winston](http://flatironjs.org/#logging), before and it just works.
+
+* [Restify](http://mcavage.github.com/node-restify/) is a libray with a similar feel to express for building RESTful APIs.
+
+* [ApiServer](http://kilianc.github.com/node-apiserver/) is a	another library for building an API server.
 
 A recent [nodeup](http://nodeup.com/fourteen) podcast covered some of these. Frankly, I dont have time to try them all, and dont have any real complaints with express. All the same, I decided to give [tako](https://github.com/mikeal/tako) a few hours and see what it was all about.
 
@@ -96,12 +99,16 @@ Obviously, you can do more than change the log level, see [more configuration op
 
 Tako does not support plugins. But there seems to be some plugins.
 
-    $ npm search tako-
+{% highlight bash %}
+
+    npm search tako-
     NAME                DESCRIPTION                   AUTHOR   DATE              KEY
     tako-cookies        A cookie middleware for tako  =isaacs  2012-04-20 19:23
     tako-gzip           gzip for tako                 =kesla   2012-04-29 22:17
     tako-session-token  session tokens for tako       =isaacs  2012-04-20 19:47
-    
+
+{% endhighlight %}
+
 Author [isaacs](http://blog.izs.me/) wrote [npm](http://npmjs.org/) and modules like [supervisor](https://github.com/isaacs/node-supervisor) and inherited 'dictatorship' of node itself from Ryah Dhal, node's creator. I dont know why he is he using tako, but that is a good sign right?
 
 So back to plugins, the gzip one is pretty straightforward:

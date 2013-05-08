@@ -17,7 +17,11 @@ There are a bunch of javascript statistics libraries for [node.js](http://nodejs
 
 [npm](http://search.npmjs.org/#/gauss) install
 
+{% highlight bash %}
+
     npm install gauss
+
+{% endhighlight %}
 
 ## Sylvester
 [Sylvester](http://sylvester.jcoglan.com/) is a Javascript library by [James Coglan](http://blog.jcoglan.com/) for math on vectors and matrices. Hard to tell if it is updated, since the source doesn't seem to be on github or some other public repository. Chris Umbel has created [a node.js port](http://search.npmjs.org/#/sylvester).
@@ -30,7 +34,11 @@ There are a bunch of javascript statistics libraries for [node.js](http://nodejs
 
 [npm](http://search.npmjs.org/#/sylvester) install
 
+{% highlight bash %}
+
     npm install sylvester
+
+{% endhighlight %}
 
 ## JStat
 [JStat](http://www.jstat.org/) is a Javascript statistical library intended for use in the browser. It optionally includes [jQuery](http://jquery.com/), [jQuery UI](http://jqueryui.com/) and [flot](https://code.google.com/p/flot/) for building plots. It seems to be actively updated, but has no real documentation yet. 

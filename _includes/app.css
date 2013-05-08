@@ -130,6 +130,25 @@ ul.posts li {
   text-indent:-40px;
 }
 
+.posts-title {
+  color:#666;
+  font-size:24px;
+  margin-bottom: 6px;
+}
+
+.posts-date {
+  color:#aaa;
+  font-size: 0.7em;
+  font-weight: 400;
+  margin-left: 20px;
+}
+
+.posts-separator {
+  border-top: 1px solid #ccc;
+  margin-bottom:30px;
+}
+
+
 .post-title {
   color:#666;
   font-size:26px;
@@ -143,15 +162,11 @@ ul.posts li {
 .post-tags {
   color:#bbb;
   font-size:0.9em;
-  margin:6px 0px 12px;
+  margin:6px 0px;
 }
 
 .post-tag {
   margin-right:6px;
-}
-
-.post-separator {
-  margin-bottom:25px;
 }
 
 

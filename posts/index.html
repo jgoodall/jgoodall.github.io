@@ -4,15 +4,14 @@ title: Posts
 ---
 
 {% for post in site.posts %}
-  <h1 class='post-title'><a href='{{ post.url }}'>{{ post.title }}</a></h1>
-  <div class='post-date'>{{ post.date | date_to_string }}</div>
+  <h1 class='posts-title'><a href='{{ post.url }}'>{{ post.title }}</a> <span class="posts-date">{{ post.date | date_to_string }}</span></h1>
   <div class='post-tags'>
-    {% for tag in page.tags %}
+      {% for tag in post.tags %}
       <span class='post-tag'>{{ tag }}</span>
-    {% endfor %}
+      {% endfor %}
   </div>
   <article>
     {{ post.excerpt }}
   </article>
-  <div class='post-separator'>
+  <div class='posts-separator'></div>
 {% endfor %}

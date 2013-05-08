@@ -283,7 +283,7 @@ strong {
 
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 568px) {
 
   body {
     padding:5px 6px;
@@ -312,20 +312,28 @@ strong {
   }
 
   #nav ul li {
+    margin-right:16px;
+  }
+
+  #nav ul a {
+    font-size:1em;
+  }
+
+}
+
+@media print, screen and (max-width: 480px) {
+
+  body {
+    padding:10px 4px;
+  }
+
+  #nav ul li {
     margin-right:12px;
   }
 
 }
 
 @media print, screen and (max-width: 320px) {
-
-  body {
-    padding:5px 2px;
-  }
-
-  #nav ul a {
-    font-size:1em;
-  }
 
   #nav ul li {
     margin-right:8px;

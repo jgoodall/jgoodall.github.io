@@ -311,6 +311,10 @@ strong {
     text-align:left;
   }
 
+  #nav ul li {
+    margin-right:16px;
+  }
+
 }
 
 @media print, screen and (max-width: 320px) {

@@ -300,10 +300,8 @@ strong {
     width:auto;
   }
 
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
+  header #social a {
+    padding-right:20px;
   }
 
   #nav {
@@ -326,6 +324,10 @@ strong {
   body {
     padding:10px 4px;
   }
+
+  header #social a {
+    padding-right:15px;
+  }
 
   #nav ul li {
     margin-right:12px;

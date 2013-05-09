@@ -10,7 +10,7 @@ John holds a Ph.D. and M.S. in [Information Systems](http://www.is.umbc.edu/) fr
 
 ### Profiles
 
-##### [ACM Author Page](http://dl.acm.org/author_page.cfm?id=81100461685)
-##### [Google Scholar Profile](http://scholar.google.com/citations?user=wRgcV8EAAAAJ)
-##### [Microsoft Academic Search Author Page](http://academic.research.microsoft.com/Author/935659)
-##### [ResearchGate Profile](https://www.researchgate.net/profile/John_Goodall2/)
+#### [ACM Author Page](http://dl.acm.org/author_page.cfm?id=81100461685)
+#### [Google Scholar Profile](http://scholar.google.com/citations?user=wRgcV8EAAAAJ)
+#### [Microsoft Academic Search Author Page](http://academic.research.microsoft.com/Author/935659)
+#### [ResearchGate Profile](https://www.researchgate.net/profile/John_Goodall2/)

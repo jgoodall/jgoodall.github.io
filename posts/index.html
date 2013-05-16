@@ -10,8 +10,7 @@ title: Posts
       <span class='post-tag'>{{ tag }}</span>
       {% endfor %}
   </div>
-  <article>
-    {{ post.excerpt }}
-  </article>
+  <div>{{ post.excerpt }}</div>
+  <div class='posts-readmore'><a href='{{ post.url }}'>{{ 'Read more' | upcase }} <i class='icon-chevron-right' style='font-size:0.8em;'></i></a></div>
   <div class='posts-separator'></div>
 {% endfor %}

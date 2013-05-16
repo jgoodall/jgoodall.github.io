@@ -143,8 +143,14 @@ ul.posts li {
   margin-left: 20px;
 }
 
+.posts-readmore {
+  font-size:0.9em;
+  margin-top:-10px;
+}
+
 .posts-separator {
   border-top: 1px solid #ccc;
+  margin-top:10px;
   margin-bottom:30px;
 }
 

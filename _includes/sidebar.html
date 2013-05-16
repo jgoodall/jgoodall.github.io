@@ -1,15 +1,15 @@
-<header itemscope itemtype="http://data-vocabulary.org/Person">
-  <h1><a href='/'><span itemprop="name">{{ site.author }}</span></a></h1>
+<header itemscope itemtype='http://data-vocabulary.org/Person'>
+  <h1><a href='/'><span itemprop='name'>{{ site.author }}</span></a></h1>
   <div class='author-info'>
     <div class='block'>
-      <p>Research Scientist / Team Lead</p>
+      <p><span itemprop='role'>Research Scientist</span> / <span itemprop='title'>Team Lead</span></p>
       <p>Situation Awareness and Visual Analytics team</p>
-      <p><a href='{{ site.employer_url }}'>{{ site.employer }}</a></p>
+      <p><a href='{{ site.employer_url }}' itemprop='affiliation'>{{ site.employer }}</a></p>
     </div>
     <div class='block'>
       <p><i class='icon-phone'></i>  &nbsp; {{ site.phone }}</p>
       <p><i class='icon-envelope'></i>  &nbsp; {{ site.email }}</p>
-      <p><i class='icon-bookmark'></i>  &nbsp; <a href="http://jgoodall.me/" itemprop="url">{{ site.url }}</a></p>
+      <p><i class='icon-bookmark'></i>  &nbsp; <a href='http://jgoodall.me/' itemprop='url'>{{ site.url }}</a></p>
     </div>
     <div class='block'>
       <p><a href='{{ site.cv_url }}' title='Curriculum vitae (pdf)'><i class='icon-file'></i> &nbsp; Curriculum vitae</a></p>

@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
-    <loc>{{ site.url }}</loc>
+    <loc>http://jgoodall.me</loc>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>{{ site.url }}/posts/</loc>
+    <loc>http://jgoodall.me/posts/</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>{{ site.url }}/projects/</loc>
+    <loc>http://jgoodall.me/projects/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>{{ site.url }}/papers/</loc>
+    <loc>http://jgoodall.me/papers/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>{{ site.url }}/about/</loc>
+    <loc>http://jgoodall.me/about/</loc>
     <changefreq>monthly</changefreq>
   </url>
-  {% for page in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-      <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
-      <changefreq>weekly</changefreq>
-    </url>
-  {% endfor %}
 </urlset>

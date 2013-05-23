@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Vagrant configuration for nodejs
+title: Vagrant, Chef, and Berkshelf
 tags: 
   - development 
-  - nodejs
+  - vagrant
 ---
 
 [Vagrant](http://www.vagrantup.com/) is a tool to create portable, sharable development and testing environments. It is used to build, provision, and configure a virtual machine (by default, [VirtualBox](https://www.virtualbox.org/)). Here we will configure Vagrant with [nodejs](http://nodejs.org/) and [redis](http://redis.io/). [Chef](http://www.opscode.com/chef/) and [berkshelf](http://berkshelf.com/) are used for provisioning.

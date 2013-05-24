@@ -111,6 +111,20 @@ header #social a:hover {
   margin:4px 0;
 }
 
+.profile-image {
+  float:right;
+  margin:20px;
+}
+
+.profiles {
+  text-align: center;
+  width: 100%;
+}
+
+.profile-link {
+  margin: 0 25px;
+}
+
 .index-post-date {
   margin-left: 12px;
   font-size: 0.8em;
@@ -176,11 +190,15 @@ header #social a:hover {
 
 h1,
 h2,
-h3,
+h3 {
+  margin: 10px 0 25px;
+  color: #333;
+}
+
 h4,
 h5,
 h6 {
-  margin: 10px 0 20px;
+  margin: 10px 0 15px;
   color: #333;
 }
 
@@ -311,6 +329,9 @@ strong {
   #nav ul a {
     font-size: 1.1em;
   }
+  .profile-link {
+    margin: 0 14px;
+  }
 }
 
 @media print, screen and (max-width: 568px) {
@@ -348,6 +369,9 @@ strong {
   #nav ul a {
     font-size: 1em;
   }
+  .profile-link {
+    margin: 0 10px;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -359,6 +383,9 @@ strong {
   }
   #nav ul li {
     margin-right: 12px;
+  }
+  .profile-link {
+    margin: 0 5px;
   }
 }
 

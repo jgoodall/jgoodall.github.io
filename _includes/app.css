@@ -32,7 +32,7 @@ header .author-info p {
   margin: 0;
 }
 
-header .author-info div.block {
+header .author-info .block {
   margin: 6px 0;
 }
 
@@ -122,11 +122,11 @@ header #social a:hover {
   width: 100%;
 }
 
-ul.posts {
+.posts {
   list-style: none;
 }
 
-ul.posts li {
+.posts li {
   text-indent: -40px;
 }
 

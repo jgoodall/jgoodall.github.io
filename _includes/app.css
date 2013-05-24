@@ -36,16 +36,16 @@ header .author-info .block {
   margin:6px 0;
 }
 
-header #social {
+header .social {
   margin-top:12px;
   font-size:20px;
 }
 
-header #social a {
+header .social a {
   padding-right:5px;
 }
 
-header #social a:hover {
+header .social a:hover {
   color:#666;
 }
 
@@ -84,8 +84,7 @@ header #social a:hover {
 #home #nav-home a,
 #posts #nav-posts a,
 #projects #nav-projects a,
-#papers #nav-papers a,
-#about #nav-about a {
+#papers #nav-papers a {
   font-weight:700;
   color:#333;
 }
@@ -93,8 +92,7 @@ header #social a:hover {
 #home #nav-home a:hover,
 #posts #nav-posts a:hover,
 #projects #nav-projects a:hover,
-#papers #nav-papers a:hover,
-#about #nav-about a:hover {
+#papers #nav-papers a:hover {
   color:#B1C2B3;
   text-decoration:underline;
 }
@@ -356,7 +354,7 @@ strong {
   h6 {
     font-size:0.9em;
   }
-  header #social a {
+  header .social a {
     padding-right:35px;
   }
   #nav {
@@ -378,7 +376,7 @@ strong {
   body {
     padding:10px 4px;
   }
-  header #social a {
+  header .social a {
     padding-right:25px;
   }
   #nav ul li {

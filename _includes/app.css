@@ -1,84 +1,84 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding: 10px 20px;
-  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  color: #666;
+  padding:10px 20px;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:300;
+  color:#666;
 }
 
 .wrapper {
-  width: 960px;
-  margin: 0 auto;
+  width:960px;
+  margin:0 auto;
 }
 
 header {
-  position: fixed;
-  float: left;
-  width: 200px;
+  position:fixed;
+  float:left;
+  width:200px;
 }
 
 header h1 a {
-  color: #444;
+  color:#444;
 }
 
 header .author-info {
-  margin: 10px 0;
-  font-size: 12px;
-  font-style: normal;
+  margin:10px 0;
+  font-size:12px;
+  font-style:normal;
 }
 
 header .author-info p {
-  margin: 0;
+  margin:0;
 }
 
 header .author-info .block {
-  margin: 6px 0;
+  margin:6px 0;
 }
 
 header #social {
-  margin-top: 12px;
-  font-size: 20px;
+  margin-top:12px;
+  font-size:20px;
 }
 
 header #social a {
-  padding-right: 5px;
+  padding-right:5px;
 }
 
 header #social a:hover {
-  color: #666;
+  color:#666;
 }
 
 #nav {
-  margin: 12px 0 24px 0;
-  text-align: right;
+  margin:12px 0 24px 0;
+  text-align:right;
 }
 
 #nav > ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+  padding:0;
+  margin:0;
+  list-style:none;
 }
 
 #nav > ul li {
-  display: inline;
-  margin-right: 25px;
+  display:inline;
+  margin-right:25px;
 }
 
 #nav > ul a {
-  font-size: 16px;
-  line-height: 1.1;
-  color: #666;
-  text-decoration: none;
+  font-size:16px;
+  line-height:1.1;
+  color:#666;
+  text-decoration:none;
 }
 
 #nav > ul a:hover {
-  color: #B1C2B3;
-  text-decoration: underline;
+  color:#B1C2B3;
+  text-decoration:underline;
 }
 
 #nav > ul a:active {
-  color: #778691;
+  color:#778691;
 }
 
 #home #nav-home a,
@@ -86,8 +86,8 @@ header #social a:hover {
 #projects #nav-projects a,
 #papers #nav-papers a,
 #about #nav-about a {
-  font-weight: 700;
-  color: #333;
+  font-weight:700;
+  color:#333;
 }
 
 #home #nav-home a:hover,
@@ -95,19 +95,19 @@ header #social a:hover {
 #projects #nav-projects a:hover,
 #papers #nav-papers a:hover,
 #about #nav-about a:hover {
-  color: #B1C2B3;
-  text-decoration: underline;
+  color:#B1C2B3;
+  text-decoration:underline;
 }
 
 #main {
-  float: right;
-  width: 720px;
-  padding-bottom: 50px;
+  float:right;
+  width:720px;
+  padding-bottom:50px;
 }
 
 #rss {
-  font-size: 14px;
-  text-align: right
+  font-size:14px;
+  text-align:right
   margin:4px 0;
 }
 
@@ -117,89 +117,89 @@ header #social a:hover {
 }
 
 .profiles {
-  text-align: center;
-  width: 100%;
+  width:100%;
+  text-align:center;
 }
 
 .profile-link {
-  margin: 0 25px;
+  margin:0 25px;
 }
 
 .index-post-date {
-  margin-left: 12px;
-  font-size: 0.8em;
-  font-weight: 400;
-  color: #aaa;
+  margin-left:12px;
+  font-size:0.8em;
+  font-weight:400;
+  color:#aaa;
 }
 
 .twitter-timeline {
-  width: 100%;
+  width:100%;
 }
 
 .posts {
-  list-style: none;
+  list-style:none;
 }
 
 .posts li {
-  text-indent: -40px;
+  text-indent:-40px;
 }
 
 .posts-title {
-  margin-bottom: 6px;
-  font-size: 24px;
-  color: #666;
+  margin-bottom:6px;
+  font-size:24px;
+  color:#666;
 }
 
 .posts-date {
-  margin-left: 20px;
-  font-size: 0.7em;
-  font-weight: 400;
-  color: #aaa;
+  margin-left:20px;
+  font-size:0.7em;
+  font-weight:400;
+  color:#aaa;
 }
 
 .posts-readmore {
-  margin-top: -10px;
-  font-size: 0.9em;
+  margin-top:-10px;
+  font-size:0.9em;
 }
 
 .posts-separator {
-  margin-top: 10px;
-  margin-bottom: 30px;
-  border-top: 1px solid #ccc;
+  margin-top:10px;
+  margin-bottom:30px;
+  border-top:1px solid #ccc;
 }
 
 .post-title {
-  font-size: 26px;
-  color: #666;
+  font-size:26px;
+  color:#666;
 }
 
 .post-date {
-  font-size: 0.9em;
-  color: #aaa;
+  font-size:0.9em;
+  color:#aaa;
 }
 
 .post-tags {
-  margin: 6px 0;
-  font-size: 0.9em;
-  color: #bbb;
+  margin:6px 0;
+  font-size:0.9em;
+  color:#bbb;
 }
 
 .post-tag {
-  margin-right: 6px;
+  margin-right:6px;
 }
 
 h1,
 h2,
 h3 {
-  margin: 10px 0 25px;
-  color: #333;
+  margin:10px 0 25px;
+  color:#333;
 }
 
 h4,
 h5,
 h6 {
-  margin: 10px 0 15px;
-  color: #333;
+  margin:10px 0 15px;
+  color:#333;
 }
 
 p,
@@ -208,145 +208,145 @@ ol,
 table,
 pre,
 dl {
-  margin: 0 0 20px;
+  margin:0 0 20px;
 }
 
 h1,
 h2,
 h3 {
-  line-height: 1.1;
+  line-height:1.1;
 }
 
 h1 {
-  font-size: 28px;
+  font-size:28px;
 }
 
 h2 {
-  color: #393939;
+  color:#393939;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  color: #494949;
+  color:#494949;
 }
 
 a {
-  font-weight: 400;
-  color: #39c;
-  text-decoration: none;
+  font-weight:400;
+  color:#39c;
+  text-decoration:none;
 }
 
 a:hover {
-  color: #069;
+  color:#069;
 }
 
 a small {
-  display: block;
-  margin-top: -0.6em;
-  font-size: 11px;
-  color: #777;
+  display:block;
+  margin-top:-0.6em;
+  font-size:11px;
+  color:#777;
 }
 
 a:hover small {
-  color: #777;
+  color:#777;
 }
 
 blockquote {
-  padding: 0 0 0 20px;
-  margin: 0;
-  border-left: 1px solid #e5e5e5;
+  padding:0 0 0 20px;
+  margin:0;
+  border-left:1px solid #e5e5e5;
 }
 
 code,
 pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size: 12px;
-  color: #333;
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size:12px;
+  color:#333;
 }
 
 pre {
-  padding: 8px 15px;
-  overflow-x: auto;
-  background: #f8f8f8;
-  border: 1px solid #e5e5e5;
-  border-radius: 5px;
+  padding:8px 15px;
+  overflow-x:auto;
+  background:#f8f8f8;
+  border:1px solid #e5e5e5;
+  border-radius:5px;
 }
 
 img {
-  max-width: 100%;
+  max-width:100%;
 }
 
 small {
-  font-size: 11px;
+  font-size:11px;
 }
 
 strong {
-  font-weight: 700;
-  color: #222;
+  font-weight:700;
+  color:#222;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width:960px) {
   .wrapper {
-    width: 768px;
+    width:768px;
   }
   #main {
-    width: 520px;
+    width:520px;
   }
   #nav ul a {
-    font-size: 1.3em;
+    font-size:1.3em;
   }
   body {
-    padding: 10px;
-    word-wrap: break-word;
+    padding:10px;
+    word-wrap:break-word;
   }
   header {
-    padding: 0;
+    padding:0;
   }
   pre,
   code {
-    word-wrap: normal;
+    word-wrap:normal;
   }
   section {
-    padding: 20px 0;
-    margin: 0 0 20px;
-    border: 1px solid #eee;
-    border-width: 1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+    border:1px solid #eee;
+    border-width:1px 0;
   }
 }
 
-@media print, screen and (max-width: 768px) {
+@media print, screen and (max-width:768px) {
   .wrapper {
-    width: 700px;
+    width:700px;
   }
   #main {
-    width: 480px;
+    width:480px;
   }
   #nav ul li {
-    margin-right: 16px;
+    margin-right:16px;
   }
   #nav ul a {
-    font-size: 1.1em;
+    font-size:1.1em;
   }
   .profile-link {
-    margin: 0 14px;
+    margin:0 14px;
   }
 }
 
-@media print, screen and (max-width: 568px) {
+@media print, screen and (max-width:568px) {
   body {
-    padding: 5px 6px;
+    padding:5px 6px;
   }
   div.wrapper {
-    width: auto;
-    margin: 0;
+    width:auto;
+    margin:0;
   }
   header,
   #main {
-    position: static;
-    float: none;
-    width: auto;
+    position:static;
+    float:none;
+    width:auto;
   }
   h1,
   h2,
@@ -354,51 +354,51 @@ strong {
   h4,
   h5,
   h6 {
-    font-size: 0.9em;
+    font-size:0.9em;
   }
   header #social a {
-    padding-right: 35px;
+    padding-right:35px;
   }
   #nav {
-    margin: 10px 0;
-    text-align: left;
+    margin:10px 0;
+    text-align:left;
   }
   #nav ul li {
-    margin-right: 16px;
+    margin-right:16px;
   }
   #nav ul a {
-    font-size: 1em;
+    font-size:1em;
   }
   .profile-link {
-    margin: 0 10px;
+    margin:0 10px;
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width:480px) {
   body {
-    padding: 10px 4px;
+    padding:10px 4px;
   }
   header #social a {
-    padding-right: 25px;
+    padding-right:25px;
   }
   #nav ul li {
-    margin-right: 12px;
+    margin-right:12px;
   }
   .profile-link {
-    margin: 0 5px;
+    margin:0 5px;
   }
 }
 
-@media print, screen and (max-width: 320px) {
+@media print, screen and (max-width:320px) {
   #nav ul li {
-    margin-right: 8px;
+    margin-right:8px;
   }
 }
 
 @media print {
   body {
-    padding: 0.4in;
-    font-size: 12pt;
-    color: #444;
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
   }
 }

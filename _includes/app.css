@@ -54,31 +54,30 @@ header #social a:hover {
   text-align: right;
 }
 
-#nav ul,
-li {
-  display: inline;
+#nav > ul {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-#nav ul li {
+#nav > ul li {
+  display: inline;
   margin-right: 25px;
 }
 
-#nav ul a {
+#nav > ul a {
   font-size: 16px;
   line-height: 1.1;
   color: #666;
   text-decoration: none;
 }
 
-#nav ul a:hover {
+#nav > ul a:hover {
   color: #B1C2B3;
   text-decoration: underline;
 }
 
-#nav ul a:active {
+#nav > ul a:active {
   color: #778691;
 }
 

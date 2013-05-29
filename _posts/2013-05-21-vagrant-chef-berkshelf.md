@@ -2,7 +2,7 @@
 layout: post
 title: Vagrant, Chef, and Berkshelf
 tags: 
-  - development 
+  - tools 
   - vagrant
 ---
 

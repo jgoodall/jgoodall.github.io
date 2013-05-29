@@ -1,0 +1,1 @@
+* Get pagingation working for blog index and for home page

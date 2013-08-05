@@ -38,15 +38,17 @@ header .author-info .block {
 
 header .social {
   margin-top:12px;
-  font-size:20px;
+  font-size:28px;
 }
 
 header .social a {
   padding-right:5px;
+  color:#7F827D;
 }
 
 header .social a:hover {
-  color:#666;
+  color:#39c;
+  border-bottom: none;
 }
 
 #nav {
@@ -69,12 +71,10 @@ header .social a:hover {
   font-size:16px;
   line-height:1.1;
   color:#666;
-  text-decoration:none;
 }
 
 #nav > ul a:hover {
   color:#B1C2B3;
-  text-decoration:underline;
 }
 
 #nav > ul a:active {
@@ -237,7 +237,8 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:#666;
+  border-bottom: 1px dashed #999;
 }
 
 a small {

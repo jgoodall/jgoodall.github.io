@@ -5,13 +5,26 @@ title: Projects
 
 Here are some of the projects that have resulted in software that is freely available on the web or downloadable.
 
+
+## NV
+
+<a href="http://ornl-sava.github.io/nv/">![NV](./img/nv.png)</a>
+
+NV is a visualization tool for anlyzing nessus computer vulnerability data. NV was designed primarily by [Lane Harrison](http://codementum.org/). See our [VizSec 2012 paper](https://dl.acm.org/citation.cfm?doid=2379690.2379694) for more information.
+
+
+## Geographic Variation in Health Indicators
+
+<a href="http://ornl-sava.github.io/cms-geovar/">![Geographic Variation](./img/cms-geovar.png)</a>
+
+This project looks at lots of health indicators simultaneously in a small multiple display to look for regional trends and outliers.
+
+
 ## Geographic Health Indicators
 
-<a href="cms-geo/obesity.html">![Obesity rates](./img/cms-geo-obesity.png)</a>
-<a href="cms-geo/diabetes.html">![Diabetes rates](./img/cms-geo-diabetes.png)</a>
-<a href="cms-geo/diabetes-medicare.html">![Diabetes among medicare participants](./img/cms-geo-diabetes-medicare.png)</a>
+<a href="cms-geo/obesity.html">![Obesity rates](./img/cms-health-indicators.png)</a>
 
-Visualization project looking at different health indicators, derived from data pulled from the [Health Indicators Warehouse](http://healthindicators.gov/) and [geographic variation](http://www.iom.edu/Activities/HealthServices/GeographicVariation/Data-Resources.aspx) data from the Institute of Medicine. The visualizations show the geographic distribution of different health indicators - [obesity](cms-geo/obesity.html), [diabetes](cms-geo/diabetes.html), and [diabetes among medicare participants](cms-geo/diabetes-medicare.html). Choose one of the maps above to select. Except for the medicare data, you can choose a year. You can change the color legend by clicking on it.
+Visualization projects looking at different health indicators, derived from data pulled from the [Health Indicators Warehouse](http://healthindicators.gov/) and [geographic variation](http://www.iom.edu/Activities/HealthServices/GeographicVariation/Data-Resources.aspx) data from the Institute of Medicine. The visualizations show the geographic distribution of different health indicators - [obesity](cms-geo/obesity.html), [diabetes](cms-geo/diabetes.html), and [diabetes among medicare participants](cms-geo/diabetes-medicare.html). Except for the medicare data, you can choose a year. You can change the color legend by clicking on it.
 
 
 ## Cinevis

@@ -185,6 +185,13 @@ header .social a:hover {
   margin-right:6px;
 }
 
+.project-img {
+  border: 1px solid #999;
+  -webkit-box-shadow: 4px 4px 10px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    4px 4px 10px rgba(50, 50, 50, 0.75);
+  box-shadow:         4px 4px 10px rgba(50, 50, 50, 0.75);
+}
+
 h1,
 h2,
 h3 {

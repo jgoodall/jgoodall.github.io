@@ -22,7 +22,7 @@ This project looks at lots of health indicators simultaneously in a small multip
 
 ## Geographic Health Indicators
 
-<a href="cms-geo/obesity.html"><img alt="Obesity rates class="project-img" src="./img/cmsealth-indicators.png"></a>
+<a href="cms-geo/obesity.html"><img alt="Obesity rates" class="project-img" src="./img/cms-health-indicators.png"></a>
 
 Visualization projects looking at different health indicators, derived from data pulled from the [Health Indicators Warehouse](http://healthindicators.gov/) and [geographic variation](http://www.iom.edu/Activities/HealthServices/GeographicVariation/Data-Resources.aspx) data from the Institute of Medicine. The visualizations show the geographic distribution of different health indicators - [obesity](cms-geo/obesity.html), [diabetes](cms-geo/diabetes.html), and [diabetes among medicare participants](cms-geo/diabetes-medicare.html). Except for the medicare data, you can choose a year. You can change the color legend by clicking on it.
 

@@ -24,7 +24,7 @@ Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusi
 
 Bridges, Robert A., Corinne L. Jones,  Michael D. Iannacone, Kelly M. Testa, John R. Goodall. ["Automatic Labeling for Entity Extraction in Cyber Security."](http://ase360.org/handle/123456789/42) [ASE Third International Conference on Cyber Security](http://www.scienceengineering.org/ase/conference/2014/cybersecurity/sanjose/website/), Academy of Science and Engineering (ASE), 2014.
 
-Bogdan Czejdo, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and John R. Goodall. ["Integration of External Data Sources with Cyber Security Data Warehouse."](http://dl.acm.org/authorize?N87800) Proceedings of the 9th Annual Cyber and Information Security Research Conference. ACM International Conference Proceedings Series, 2014, 49-52.
+Czejdo, Bogdan, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and John R. Goodall. ["Integration of External Data Sources with Cyber Security Data Warehouse."](http://dl.acm.org/authorize?N87800) Proceedings of the 9th Annual Cyber and Information Security Research Conference. ACM International Conference Proceedings Series, 2014, 49-52.
 
 McNeil, Nikki, Robert A. Bridges, Michael D. Iannacone, Bogdan Czejdo, Nicolas E. Perez, and John R. Goodall. ["PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts."](http://dx.doi.org/10.1109/ICMLA.2013.106) International Conference on Machine Learning and Applications (ICMLA). IEEE Press, 2013, 60-65.
 

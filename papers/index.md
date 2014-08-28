@@ -22,11 +22,13 @@ Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusi
 
 ## Refereed Conference Publications
 
-McNeil, Nikki, Robert A. Bridges, Michael D. Iannacone, Bogdan Czejdo, Nicolas E. Perez, and John R. Goodall. ["PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts."](http://dx.doi.org/10.1109/ICMLA.2013.106) International Conference on Machine Learning and Applications (ICMLA). IEEE Press, 2013, 60-65.
-
 Bridges, Robert A., Corinne L. Jones,  Michael D. Iannacone, Kelly M. Testa, John R. Goodall. ["Automatic Labeling for Entity Extraction in Cyber Security."](http://ase360.org/handle/123456789/42) [ASE Third International Conference on Cyber Security](http://www.scienceengineering.org/ase/conference/2014/cybersecurity/sanjose/website/), Academy of Science and Engineering (ASE), 2014.
 
-Harrison, Lane, Riley Spahn, Mike Iannacone, Evan Downing, and John R. Goodall. ["NV: Nessus vulnerability visualization for the web."](https://dl.acm.org/citation.cfm?doid=2379690.2379694) Proceedings of the Symposium on Visualization for Cyber Security (VizSec). ACM International Conference Proceedings Series, 2012, 25-32. 
+Bogdan Czejdo, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and John R. Goodall. ["Integration of External Data Sources with Cyber Security Data Warehouse."](http://dl.acm.org/authorize?N87800) Proceedings of the 9th Annual Cyber and Information Security Research Conference. ACM International Conference Proceedings Series, 2014, 49-52.
+
+McNeil, Nikki, Robert A. Bridges, Michael D. Iannacone, Bogdan Czejdo, Nicolas E. Perez, and John R. Goodall. ["PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts."](http://dx.doi.org/10.1109/ICMLA.2013.106) International Conference on Machine Learning and Applications (ICMLA). IEEE Press, 2013, 60-65.
+
+Harrison, Lane, Riley Spahn, Mike Iannacone, Evan Downing, and John R. Goodall. ["NV: Nessus vulnerability visualization for the web."](http://dl.acm.org/authorize?N87809) Proceedings of the Symposium on Visualization for Cyber Security (VizSec). ACM International Conference Proceedings Series, 2012, 25-32. 
 
 Goodall, John R., Hassan Radwan and Lenny Halseth. ["Visual Analysis of Code Security."](http://dl.acm.org/authorize?399139) Proceedings of the Symposium on Visualization for Computer Security (VizSec), ACM International Conference Proceedings Series, 2010, 46-51.
 

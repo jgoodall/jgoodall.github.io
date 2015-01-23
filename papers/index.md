@@ -22,6 +22,8 @@ Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusi
 
 ## Refereed Conference Publications
 
+Ragan, Eric D., John R. Goodall, Albert Tung. “Evaluating How Level of Detail of Visual History Affects Process Memory.” Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, to appear.
+
 Bridges, Robert A., Corinne L. Jones,  Michael D. Iannacone, Kelly M. Testa, John R. Goodall. ["Automatic Labeling for Entity Extraction in Cyber Security."](http://ase360.org/handle/123456789/42) [ASE Third International Conference on Cyber Security](http://www.scienceengineering.org/ase/conference/2014/cybersecurity/sanjose/website/), Academy of Science and Engineering (ASE), 2014.
 
 Czejdo, Bogdan, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and John R. Goodall. ["Integration of External Data Sources with Cyber Security Data Warehouse."](http://dl.acm.org/authorize?N87800) Proceedings of the 9th Annual Cyber and Information Security Research Conference. ACM International Conference Proceedings Series, 2014, 49-52.

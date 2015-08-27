@@ -11,7 +11,7 @@ Czejdo, Bogdan D., Erik M. Ferragut, John R. Goodall, and Jason Laska. ["Network
 
 Goodall, John R. ["An Evaluation of Visual and Textual Network Analysis Tools."](http://ivi.sagepub.com/content/10/2/145.abstract) Information Visualization 10(2), SAGE Publications, 2011, 145-157.
 
-Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["Developing Expertise for Network Intrusion Detection."](http://dx.doi.org/10.1108/09593840910962186) Information Technology & People 22(2), Emerald Group Publishing Limited, 2009, 92-108. 
+Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["Developing Expertise for Network Intrusion Detection."](http://dx.doi.org/10.1108/09593840910962186) Information Technology & People 22(2), Emerald Group Publishing Limited, 2009, 92-108.
 
 Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["Supporting Intrusion Detection Work Practice."](http://www.jissec.org/Contents/V5/N2/V5N2-Goodall.html) Journal of Information System Security 5(2), The Information Institute, 2009, 43-74.
 
@@ -22,7 +22,7 @@ Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusi
 
 ## Refereed Conference Publications
 
-Ragan, Eric D., John R. Goodall, Albert Tung. “Evaluating How Level of Detail of Visual History Affects Process Memory.” Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, to appear.
+Ragan, Eric D., John R. Goodall, Albert Tung. ["Evaluating How Level of Detail of Visual History Affects Process Memory."](http://dl.acm.org/authorize?N92021) Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, 2711-2720.
 
 Bridges, Robert A., Corinne L. Jones,  Michael D. Iannacone, Kelly M. Testa, John R. Goodall. ["Automatic Labeling for Entity Extraction in Cyber Security."](http://ase360.org/handle/123456789/42) [ASE Third International Conference on Cyber Security](http://www.scienceengineering.org/ase/conference/2014/cybersecurity/sanjose/website/), Academy of Science and Engineering (ASE), 2014.
 
@@ -30,7 +30,7 @@ Czejdo, Bogdan, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and J
 
 McNeil, Nikki, Robert A. Bridges, Michael D. Iannacone, Bogdan Czejdo, Nicolas E. Perez, and John R. Goodall. ["PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts."](http://dx.doi.org/10.1109/ICMLA.2013.106) International Conference on Machine Learning and Applications (ICMLA). IEEE Press, 2013, 60-65.
 
-Harrison, Lane, Riley Spahn, Mike Iannacone, Evan Downing, and John R. Goodall. ["NV: Nessus vulnerability visualization for the web."](http://dl.acm.org/authorize?N87809) Proceedings of the Symposium on Visualization for Cyber Security (VizSec). ACM International Conference Proceedings Series, 2012, 25-32. 
+Harrison, Lane, Riley Spahn, Mike Iannacone, Evan Downing, and John R. Goodall. ["NV: Nessus vulnerability visualization for the web."](http://dl.acm.org/authorize?N87809) Proceedings of the Symposium on Visualization for Cyber Security (VizSec). ACM International Conference Proceedings Series, 2012, 25-32.
 
 Goodall, John R., Hassan Radwan and Lenny Halseth. ["Visual Analysis of Code Security."](http://dl.acm.org/authorize?399139) Proceedings of the Symposium on Visualization for Computer Security (VizSec), ACM International Conference Proceedings Series, 2010, 46-51.
 
@@ -60,7 +60,7 @@ Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["I Know My Network: Coll
 
 Goodall, John R., Wayne G. Lutters, and Anita Komlodi. ["The Work of Intrusion Detection: Rethinking the Role of Security Analysts."](http://aisel.aisnet.org/amcis2004/179/) Proceedings of the Americas Conference on Information Systems (AMCIS), AIS Press, 2004, 1421-1427.
 
-Komlodi, Anita, John R. Goodall, and Wayne G. Lutters. ["An Information Visualization Framework for Intrusion Detection."](http://dl.acm.org/authorize?869009) Extended Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2004, 1743-1746. 
+Komlodi, Anita, John R. Goodall, and Wayne G. Lutters. ["An Information Visualization Framework for Intrusion Detection."](http://dl.acm.org/authorize?869009) Extended Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2004, 1743-1746.
 
 
 ## Books
@@ -87,9 +87,9 @@ Goodall, John R. "Visualization for Text Analysis," Keynote. Text Mining 2011, M
 
 Goodall, John R. "Visualization for Cyber Security," Panel: Visual analytics for the security sector. Visual Analytics Community Consortium Meeting, College Park MD, August 31-September 1, 2010.
 
-Goodall, John R. "VIAssist: Visual Analytics for Cyber Defense," Panel: DHS Science & Technology Emerging Technologies. GFIRST National Conference, Atlanta GA, August 23-28, 2009. 
+Goodall, John R. "VIAssist: Visual Analytics for Cyber Defense," Panel: DHS Science & Technology Emerging Technologies. GFIRST National Conference, Atlanta GA, August 23-28, 2009.
 
-Goodall, John R. "Information Visualization," Panel: Visualization for Cyber Security. USSS Global Cyber Security Conference, Washington DC, August 4-6, 2009. 
+Goodall, John R. "Information Visualization," Panel: Visualization for Cyber Security. USSS Global Cyber Security Conference, Washington DC, August 4-6, 2009.
 
 Goodall, John R. and Jason K. Kopylec. "VIAssist: Visual Analytics for NetFlow Data," FloCon, Scottsdale AZ, January 12-15, 2009.
 

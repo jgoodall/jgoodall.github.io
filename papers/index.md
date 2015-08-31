@@ -100,4 +100,4 @@ Goodall, John R., Anita Komlodi, and Wayne G. Lutters. "Information Visualizatio
 
 # Dissertation #
 
-Goodall, John R. ["Defending the Network: Visualizing Network Packets for Intrusion Detection Analysis,"](http://proquest.umi.com/pqdlink?Ver=1&amp;Exp=09-30-2012&amp;FMT=7&amp;DID=1338926531&amp;RQT=309) Ph.D. Dissertation, University of Maryland, Baltimore County (UMBC), 2006.
+Goodall, John R. ["Defending the Network: Visualizing Network Packets for Intrusion Detection Analysis,"](http://contentdm.ad.umbc.edu/cdm/ref/collection/ETD/id/108) Ph.D. Dissertation, University of Maryland, Baltimore County (UMBC), 2006.

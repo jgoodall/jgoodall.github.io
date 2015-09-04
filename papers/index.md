@@ -24,6 +24,10 @@ Goodall, John R., Wayne G. Lutters, Penny Rheingans, and Anita Komlodi. ["Focusi
 
 Ragan, Eric D., John R. Goodall, Albert Tung. ["Evaluating How Level of Detail of Visual History Affects Process Memory."](http://dl.acm.org/authorize?N92021) Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, 2711-2720.
 
+Jones, Corinne L., Robert A. Bridges, Kelly M. T. Huffer, and John R. Goodall. ["Towards a Relation Extraction Framework for Cyber-Security Concepts."](http://dl.acm.org/authorize?N92312) Proceedings of the 10th Annual Cyber and Information Security Research Conference (CISR). ACM International Conference Proceedings Series, 2015.
+
+Iannacone, Michael, Shawn Bohn, Grant Nakamura, John Gerth, Kelly Huffer, Robert Bridges, Erik Ferragut, and John R. Goodall. [Developing an Ontology for Cyber Security Knowledge Graphs.](http://dl.acm.org/authorize?N92313) Proceedings of the 10th Annual Cyber and Information Security Research Conference (CISR). ACM International Conference Proceedings Series, 2015. 
+
 Bridges, Robert A., Corinne L. Jones,  Michael D. Iannacone, Kelly M. Testa, John R. Goodall. ["Automatic Labeling for Entity Extraction in Cyber Security."](http://ase360.org/handle/123456789/42) [ASE Third International Conference on Cyber Security](http://www.scienceengineering.org/ase/conference/2014/cybersecurity/sanjose/website/), Academy of Science and Engineering (ASE), 2014.
 
 Czejdo, Bogdan, Michael D. Iannacone, Robert A. Bridges, Erik M. Ferragut, and John R. Goodall. ["Integration of External Data Sources with Cyber Security Data Warehouse."](http://dl.acm.org/authorize?N87800) Proceedings of the 9th Annual Cyber and Information Security Research Conference. ACM International Conference Proceedings Series, 2014, 49-52.

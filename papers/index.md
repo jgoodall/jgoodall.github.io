@@ -85,6 +85,8 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 ## Panels, Workshops and  Presentations
 
+**Goodall, John R.** "Stucco: Situation and Threat Understanding by Correlating Contextual Observations," Invited Talk. National (Dutch) Cyber Security Research Agenda Symposium, The Hague, Netherlands, June 2 2014.
+
 Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and **John R. Goodall**. ["situ: Situational Understanding and Discovery for Cyber Attacks."](http://dx.doi.org/10.1109/VAST.2012.6400503) VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.
 
 Steed, Chad, Thomas Potak, Robert Patton, **John R. Goodall**, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams," Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.

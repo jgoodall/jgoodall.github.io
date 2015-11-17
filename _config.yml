@@ -19,7 +19,7 @@ tumblr: johnrgoodall
 cv_url: https://dl.dropbox.com/u/298645/goodall_cv.pdf
 
 future: false
-markdown: redcarpet
-pygments: true
-paginate: 10
+# markdown: redcarpet
+highlighter: true
+# paginate: 10
 permalink: /posts/:year/:month/:day/:title

@@ -20,6 +20,6 @@ cv_url: https://dl.dropbox.com/u/298645/goodall_cv.pdf
 
 future: false
 # markdown: redcarpet
-highlighter: true
+highlighter: pygments
 # paginate: 10
 permalink: /posts/:year/:month/:day/:title

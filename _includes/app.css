@@ -165,6 +165,31 @@ header .social a:hover {
   border-top:1px solid #ccc;
 }
 
+.pagination {
+  font-size: 1.25em;
+  color: #666;
+}
+.posts-prev {
+  width: 35%;
+  float: left;
+  text-align: left;
+}
+.posts-page_number {
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+.posts-next {
+  width: 35%;
+  float: left;
+  text-align: right;
+}
+
+.posts-next.inactive,
+.posts-prev.inactive {
+  color: #ccc;
+}
+
 .post-title {
   font-size:26px;
   color:#666;

@@ -1,5 +1,10 @@
 url: jgoodall.me
 
+gems:
+  - jekyll-feed
+
+title: John R. Goodall
+description: John Goodall is Research Scientist in the Cyber and Information Security Research group at Oak Ridge National Laboratory.
 author: John Goodall
 email: jgoodall@ornl.gov
 phone: 865-446-0611

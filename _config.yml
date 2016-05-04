@@ -4,6 +4,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM
@@ -12,13 +13,21 @@ future: false
 paginate: 5
 paginate_path: "/posts/page:num/"
 
-# permalink: /posts/:year/:month/:day/:title
-
-title: John R. Goodall
-description: John Goodall is Research Scientist in the Cyber and Information Security Research group at Oak Ridge National Laboratory.
-author: John Goodall
+title: John Goodall
+description: John Goodall is Research Scientist at Oak Ridge National Laboratory.
+author:
+  twitter: johnrgoodall
 email: jgoodall@ornl.gov
 phone: 865-446-0611
+
+# For use with [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+social:
+  type: person
+  name: John R. Goodall
+  links:
+    - https://twitter.com/johnrgoodall
+    - https://www.linkedin.com/in/johnrgoodall
+    - https://github.com/jgoodall
 
 employer: Oak Ridge National Laboratory
 employer_url: https://www.ornl.gov/
@@ -26,10 +35,15 @@ group: Cyber and Information Security Research group
 group_url: http://www.csiir.ornl.gov/
 team: Situation Awareness and Visual Analytics team
 
-twitter: johnrgoodall
-linkedin: johnrgoodall
-github: jgoodall
-speakerdeck: jgoodall
-tumblr: johnrgoodall
+twitter:
+  username: johnrgoodall
+linkedin:
+  username: johnrgoodall
+github:
+  username: jgoodall
+speakerdeck:
+  username: jgoodall
+tumblr:
+  username: johnrgoodall
 
 cv_url: https://dl.dropbox.com/u/298645/goodall_cv.pdf

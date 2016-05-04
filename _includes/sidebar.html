@@ -1,5 +1,5 @@
 <header itemscope itemtype='http://data-vocabulary.org/Person'>
-  <h1><a href='/'><span itemprop='name'>{{ site.author }}</span></a></h1>
+  <h1><a href='/'><span itemprop='name'>{{ site.title }}</span></a></h1>
   <div class='author-info'>
     <div class='block'>
       <p><span itemprop='role'>Research Scientist</span> / <span itemprop='title'>Team Lead</span></p>
@@ -21,10 +21,10 @@
     </div>
   </div>
   <div class='social'>
-    <a href='/feed.xml' rel='alternate' type='application/atom+xml' title='{{ site.author }} Atom Feed'><i class='icon-rss-sign'></i></a>
-    <a href='https://www.linkedin.com/in/{{ site.linkedin }}' title='{{ site.author }} on LinkedIn :: https://www.linkedin.com/in/{{ site.linkedin }}'><i class='fa fa-linkedin-square'> </i></a>
-    <a href='https://twitter.com/{{ site.twitter }}' title='{{ site.author }} on Twitter :: https://twitter.com/{{ site.twitter }}'><i class='fa fa-twitter-square'> </i></a>
-    <a href='https://github.com/{{ site.github }}/' title='{{ site.author }} on Github :: https://github.com/{{ site.github }}/'><i class='fa fa-github-square'> </i></a>
-    <a href='http://{{ site.tumblr }}.tumblr.com/' title='{{ site.author }} on Tumblr :: http://{{ site.tumblr }}.tumblr.com/'><i class='fa fa-tumblr-square'> </i></a>
+    <a href='/feed.xml' rel='alternate' type='application/atom+xml' title='{{ site.title }} Atom Feed'><i class='icon-rss-sign'></i></a>
+    <a href='https://www.linkedin.com/in/{{ site.linkedin.username }}' title='{{ site.title }} on LinkedIn :: https://www.linkedin.com/in/{{ site.linkedin.username }}'><i class='fa fa-linkedin-square'> </i></a>
+    <a href='https://twitter.com/{{ site.twitter.username }}' title='{{ site.title }} on Twitter :: https://twitter.com/{{ site.twitter.username }}'><i class='fa fa-twitter-square'> </i></a>
+    <a href='https://github.com/{{ site.github.username }}/' title='{{ site.title }} on Github :: https://github.com/{{ site.github.username }}/'><i class='fa fa-github-square'> </i></a>
+    <a href='http://{{ site.tumblr.username }}.tumblr.com/' title='{{ site.title }} on Tumblr :: http://{{ site.tumblr.username }}.tumblr.com/'><i class='fa fa-tumblr-square'> </i></a>
   </div>
 </header>

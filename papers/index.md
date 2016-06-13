@@ -22,6 +22,8 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 
 ## Refereed Conference Publications
 
+Harshaw, Christopher H., Robert A. Bridges, Michael D. Iannacone, Joel W. Reed, and **John R. Goodall**. ["GraphPrints: Towards a Graph Analytic Method for Network Anomaly Detection."](http://dl.acm.org/authorize?N04457) Proceedings of the 11th Annual Cyber and Information Security Research Conference (CISR). ACM International Conference Proceedings Series, 2016.
+
 Ragan, Eric D., **John R. Goodall**, Albert Tung. ["Evaluating How Level of Detail of Visual History Affects Process Memory."](http://dl.acm.org/authorize?N92021) Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, 2711-2720.
 
 Jones, Corinne L., Robert A. Bridges, Kelly M. T. Huffer, and **John R. Goodall**. ["Towards a Relation Extraction Framework for Cyber-Security Concepts."](http://dl.acm.org/authorize?N92312) Proceedings of the 10th Annual Cyber and Information Security Research Conference (CISR). ACM International Conference Proceedings Series, 2015.

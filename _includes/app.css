@@ -41,7 +41,8 @@ header .social {
 }
 
 header .social a {
-  padding:2px;
+  padding-left:0;
+  padding-right:4px;
   color:#7F827D;
 }
 

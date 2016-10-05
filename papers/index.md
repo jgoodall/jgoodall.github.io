@@ -87,6 +87,8 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 ## Panels, Workshops and  Presentations
 
+**Goodall, John R.** "Situ: Discovering Suspicious Behavior in Cyber Security," Invited Talk. DHS S&amp;T Cyber Security Division 2016 R&D Showcase, Washington, D.C., February 17 2016. [video](https://youtu.be/eKy5XwoUihg)
+
 **Goodall, John R.** "Stucco: Situation and Threat Understanding by Correlating Contextual Observations," Invited Talk. National (Dutch) Cyber Security Research Agenda Symposium, The Hague, Netherlands, June 2 2014.
 
 Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and **John R. Goodall**. ["situ: Situational Understanding and Discovery for Cyber Attacks."](http://dx.doi.org/10.1109/VAST.2012.6400503) VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.

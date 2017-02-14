@@ -32,7 +32,7 @@ There are [many other books on go](https://github.com/dariubs/GoBooks), but thes
 ## Blogs
 
 * [Go Blog](https://blog.golang.org/) - lots of good articles (e.g. [json](http://blog.golang.org/json-and-go), [documenting go](http://blog.golang.org/godoc-documenting-go-code), and [reflection](http://blog.golang.org/laws-of-reflection)), links to conference videos and slides, and release notes. (Mostly written by [Andrew Gerrand](https://twitter.com/enneff).)
-* [Dave Cheney](http://dave.cheney.net/) - he develops a lot of tools and is a prolific writer on go.
+* [Dave Cheney](https://dave.cheney.net/) - he develops a lot of tools and is a prolific writer on go.
 
 ## Packages
 

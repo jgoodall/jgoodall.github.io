@@ -31,7 +31,7 @@ Visualization projects looking at different health indicators, derived from data
 
 <a href="http://jgoodall.me/cinevis/web/"><img alt="Explore Film Budgets, Revenues and Ratings" class="project-img" src="./img/cinevis.png"></a>
 
-[Cinevis](http://jgoodall.me/cinevis/web/) was an experiment with [d3js](http://d3js.org/) for the information is beautiful [challenge of the stars](http://www.informationisbeautifulawards.com/2012/01/challenge-of-the-stars/). One of the [awards](http://www.informationisbeautifulawards.com/2012/03/hall-of-fame-hollywood-challenge-winners/) implemented a [very similar idea](http://indexity.net/vis/hw/), but was a bit slicker looking. I ran out of time...
+[Cinevis](http://jgoodall.me/cinevis/web/) was an experiment with [d3js](http://d3js.org/) for the [information is beautiful](http://www.informationisbeautifulawards.com) challenge. One of the awards implemented a similar idea (no longer available on the web), but was a bit slicker looking. I ran out of time...
 
 
 ## TNV

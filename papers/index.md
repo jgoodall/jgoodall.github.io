@@ -87,6 +87,8 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 ## Panels, Workshops and  Presentations
 
+Pachuilo, A., Eric Ragan, and **John R. Goodall**. "Leveraging Interaction History for Intelligent Configuration of Multiple Coordinated Views in Visualization Tools," [Logging Interactive Visualizations and Visualizing Interaction Logs Workshop](https://livvil.github.io/workshop/) at IEEE VIS, 2016. [paper](https://livvil.github.io/workshop/papers/paper03-pachuilo.pdf)
+
 **Goodall, John R.** "Situ: Discovering Suspicious Behavior in Cyber Security," Invited Talk. DHS S&amp;T Cyber Security Division 2016 R&D Showcase, Washington, D.C., February 17 2016. [video](https://youtu.be/eKy5XwoUihg)
 
 **Goodall, John R.** "Stucco: Situation and Threat Understanding by Correlating Contextual Observations," Invited Talk. National (Dutch) Cyber Security Research Agenda Symposium, The Hague, Netherlands, June 2 2014.

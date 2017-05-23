@@ -15,8 +15,7 @@ paginate_path: "/posts/page:num/"
 
 title: John Goodall
 description: John Goodall is Research Scientist at Oak Ridge National Laboratory.
-author:
-  twitter: johnrgoodall
+author: johnrgoodall
 email: jgoodall@ornl.gov
 phone: 865-446-0611
 

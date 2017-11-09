@@ -23,11 +23,11 @@ This is a list of resources for getting started with the [go programming languag
 
 There are [many other books on go](https://github.com/dariubs/GoBooks), but these are the ones I have read.
 
-## Web sites
+## Cheat Sheets
 
+* [devhints.io's Go cheat sheet](https://devhints.io/go)
 * [Go By Example](https://gobyexample.com/) - excellent overview and reference.
 * [Golang Examples](http://golang-examples.tumblr.com/) - lots of simple code snippets for common operations (e.g. [get your IP address](http://golang-examples.tumblr.com/post/99458329439/get-local-ip-addresses) or [reading from stdin or a file](http://golang-examples.tumblr.com/post/97848675424/read-from-stdin-or-file)).
-* [Golang Go](http://golanggo.com/) - links to articles related to go.
 
 ## Blogs
 

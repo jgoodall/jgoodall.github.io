@@ -8,14 +8,14 @@ Here are some of the projects that have resulted in software that is freely avai
 
 ## NV
 
-<a href="http://ornl-sava.github.io/nv/"><img alt="NV" class="project-img" src="./img/nv.png"></a>
+<a href="https://ornl-sava.github.io/nv/"><img alt="NV" class="project-img" src="./img/nv.png"></a>
 
 NV is a visualization tool for anlyzing nessus computer vulnerability data. NV was designed primarily by [Lane Harrison](http://codementum.org/). See our [VizSec 2012 paper](https://dl.acm.org/citation.cfm?doid=2379690.2379694) for more information.
 
 
 ## Geographic Variation in Health Indicators
 
-<a href="http://ornl-sava.github.io/cms-geovar/"><img alt="Geographic Variation" class="project-img" src="./img/cms-geovar.png"></a>
+<a href="https://ornl-sava.github.io/cms-geovar/"><img alt="Geographic Variation" class="project-img" src="./img/cms-geovar.png"></a>
 
 This project looks at lots of health indicators simultaneously in a small multiple display to look for regional trends and outliers.
 
@@ -29,9 +29,9 @@ Visualization projects looking at different health indicators, derived from data
 
 ## Cinevis
 
-<a href="http://jgoodall.me/cinevis/web/"><img alt="Explore Film Budgets, Revenues and Ratings" class="project-img" src="./img/cinevis.png"></a>
+<a href="https://jgoodall.me/cinevis/web/"><img alt="Explore Film Budgets, Revenues and Ratings" class="project-img" src="./img/cinevis.png"></a>
 
-[Cinevis](http://jgoodall.me/cinevis/web/) was an experiment with [d3js](http://d3js.org/) for the [information is beautiful](http://www.informationisbeautifulawards.com) challenge. One of the awards implemented a similar idea (no longer available on the web), but was a bit slicker looking. I ran out of time...
+[Cinevis](https://jgoodall.me/cinevis/web/) was an experiment with [d3js](https://d3js.org/) for the [information is beautiful](http://www.informationisbeautifulawards.com) challenge. One of the awards implemented a similar idea (no longer available on the web), but was a bit slicker looking. I ran out of time...
 
 
 ## TNV

@@ -5,9 +5,11 @@ title: Papers
 
 ## Refereed Journal Publications
 
+**Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics, 2018. *To Appear*
+
 Czejdo, Bogdan, Erik M. Ferragut, **John R. Goodall**, and Jason Laska. ["Data warehouse for event streams violating rules."](http://dx.doi.org/10.2478/fcds-2013-0001) Foundations of Computing and Decision Sciences 38(2), 2013, 87–96.
 
-Czejdo, Bogdan D., Erik M. Ferragut, **John R. Goodall**, and Jason Laska. ["Network Intrusion Detection and Visualization Using Aggregations in a Cyber Security Data Warehouse".](http://dx.doi.org/10.4236/ijcns.2012.529069) International Journal of Communications, Network and System Sciences 5(9a), Scientific Research Publishing Inc., 2012, 593–602.
+Czejdo, Bogdan D., Erik M. Ferragut, **John R. Goodall**, and Jason Laska. ["Network Intrusion Detection and Visualization Using Aggregations in a Cyber Security Data Warehouse."](http://dx.doi.org/10.4236/ijcns.2012.529069) International Journal of Communications, Network and System Sciences 5(9a), Scientific Research Publishing Inc., 2012, 593–602.
 
 **Goodall, John R.** ["An Evaluation of Visual and Textual Network Analysis Tools."](http://ivi.sagepub.com/content/10/2/145.abstract) Information Visualization 10(2), SAGE Publications, 2011, 145-157.
 

@@ -24,6 +24,8 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 
 ## Refereed Conference Publications
 
+Bridges, Robert A., Kelly M. T. Huffer, Corinne L. Jones, Michael D. Iannacone and **John R. Goodall**. ["Cybersecurity Automated Information Extraction Techniques: Drawbacks of Current Methods, and Enhanced Extractors."](https://doi.org/10.1109/ICMLA.2017.0-122) IEEE International Conference on Machine Learning and Applications (ICMLA), IEEE Press, 2017, 437-442.
+
 Harshaw, Christopher H., Robert A. Bridges, Michael D. Iannacone, Joel W. Reed, and **John R. Goodall**. ["GraphPrints: Towards a Graph Analytic Method for Network Anomaly Detection."](http://dl.acm.org/authorize?N04457) Proceedings of the 11th Annual Cyber and Information Security Research Conference (CISR). ACM International Conference Proceedings Series, 2016.
 
 Ragan, Eric D., **John R. Goodall**, Albert Tung. ["Evaluating How Level of Detail of Visual History Affects Process Memory."](http://dl.acm.org/authorize?N92021) Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), ACM Press, 2015, 2711-2720.
@@ -88,6 +90,10 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 
 ## Panels, Workshops and  Presentations
+
+Bridges, Robert A., Maria A. Vincent, Kelly M. Huffer, **John R. Goodall**, Jessie D. Jamieson, and Zachary Burch. ["Forming IDEAS Interactive Data Exploration & Analysis System."](https://wsiw2018.l3s.uni-hannover.de/papers/wsiw2018-Bridges.pdf) 4th Workshop on Security Information Workers, 2018.
+
+Steed, Chad A., Junghoon Chae, **John R. Goodall**, and Steven Hahn. ["Improving Scientific Data Analysis Through Multi-touch Enabled Interactive Data Visualization With Applications to Neutron Science."](https://groups.inf.ed.ac.uk/vishub/immersiveanalytics/papers/IA_2772-paper.pdf) Workshop on Immersive Analytics, 2017.
 
 Pachuilo, A., Eric Ragan, and **John R. Goodall**. "Leveraging Interaction History for Intelligent Configuration of Multiple Coordinated Views in Visualization Tools," [Logging Interactive Visualizations and Visualizing Interaction Logs Workshop](https://livvil.github.io/workshop/) at IEEE VIS, 2016. [paper](https://livvil.github.io/workshop/papers/paper03-pachuilo.pdf)
 

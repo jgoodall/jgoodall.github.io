@@ -2,7 +2,8 @@
 
 body {
   padding:10px 20px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:16px;
+  font-family:Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
   color:#666;
 }
@@ -24,7 +25,7 @@ header h1 a {
 
 header .author-info {
   margin:10px 0;
-  font-size:12px;
+  font-size:0.875em;
   font-style:normal;
 }
 
@@ -68,7 +69,7 @@ header .social a:hover {
 }
 
 #nav > ul a {
-  font-size:16px;
+  font-size:1.1em;
   line-height:1.1;
   color:#666;
 }
@@ -101,12 +102,6 @@ header .social a:hover {
   float:right;
   width:720px;
   padding-bottom:50px;
-}
-
-#rss {
-  font-size:14px;
-  text-align:right
-  margin:4px 0;
 }
 
 .profile-image {
@@ -143,7 +138,7 @@ header .social a:hover {
 
 .posts-title {
   margin-bottom:6px;
-  font-size:24px;
+  font-size:1.8em;
   color:#666;
 }
 
@@ -191,7 +186,7 @@ header .social a:hover {
 }
 
 .post-title {
-  font-size:26px;
+  font-size:1.625em;
   color:#666;
 }
 
@@ -247,7 +242,7 @@ h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:1.75em;
 }
 
 h2 {
@@ -275,7 +270,7 @@ a:hover {
 a small {
   display:block;
   margin-top:-0.6em;
-  font-size:11px;
+  font-size:0.6875em;
   color:#777;
 }
 
@@ -292,7 +287,7 @@ blockquote {
 code,
 pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size:12px;
+  font-size:0.75em;
   color:#333;
 }
 
@@ -309,7 +304,7 @@ img {
 }
 
 small {
-  font-size:11px;
+  font-size:0.6875em;
 }
 
 strong {
@@ -428,7 +423,7 @@ strong {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:0.75em;
     color:#444;
   }
 }

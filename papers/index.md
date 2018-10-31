@@ -93,6 +93,8 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 Nichols, Laurence and **John R. Goodall**. ["Log Monitoring and Anomaly Detection at Scale at ORNL."](https://www.fbcinc.com/e/nlit/presentations/Nichols-Log_monitoring_and_anomaly_detection_at_sc.pdf) NLIT Summit, May 23 2018.
 
+Nichols, Laurence and **John R. Goodall**. "Situ: Discovering Suspicious Behavior." Elasticsearch Federal User Group meeting, August 16 2017.
+
 Bridges, Robert A., Maria A. Vincent, Kelly M. Huffer, **John R. Goodall**, Jessie D. Jamieson, and Zachary Burch. ["Forming IDEAS Interactive Data Exploration & Analysis System."](https://wsiw2018.l3s.uni-hannover.de/papers/wsiw2018-Bridges.pdf) 4th Workshop on Security Information Workers, 2018.
 
 Steed, Chad A., Junghoon Chae, **John R. Goodall**, and Steven Hahn. ["Improving Scientific Data Analysis Through Multi-touch Enabled Interactive Data Visualization With Applications to Neutron Science."](https://groups.inf.ed.ac.uk/vishub/immersiveanalytics/papers/IA_2772-paper.pdf) Workshop on Immersive Analytics, 2017.

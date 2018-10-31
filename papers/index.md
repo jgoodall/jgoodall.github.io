@@ -91,6 +91,8 @@ Kopylec, Jason K., Anita D. D'Amico, and **John R. Goodall**. ["Visualizing Casc
 
 ## Panels, Workshops and  Presentations
 
+Nichols, Laurence and **John R. Goodall**. ["Log Monitoring and Anomaly Detection at Scale at ORNL."](https://www.fbcinc.com/e/nlit/presentations/Nichols-Log_monitoring_and_anomaly_detection_at_sc.pdf) NLIT Summit, May 23 2018.
+
 Bridges, Robert A., Maria A. Vincent, Kelly M. Huffer, **John R. Goodall**, Jessie D. Jamieson, and Zachary Burch. ["Forming IDEAS Interactive Data Exploration & Analysis System."](https://wsiw2018.l3s.uni-hannover.de/papers/wsiw2018-Bridges.pdf) 4th Workshop on Security Information Workers, 2018.
 
 Steed, Chad A., Junghoon Chae, **John R. Goodall**, and Steven Hahn. ["Improving Scientific Data Analysis Through Multi-touch Enabled Interactive Data Visualization With Applications to Neutron Science."](https://groups.inf.ed.ac.uk/vishub/immersiveanalytics/papers/IA_2772-paper.pdf) Workshop on Immersive Analytics, 2017.
@@ -99,27 +101,27 @@ Pachuilo, A., Eric Ragan, and **John R. Goodall**. "Leveraging Interaction Histo
 
 **Goodall, John R.** "Situ: Discovering Suspicious Behavior in Cyber Security," Invited Talk. DHS S&amp;T Cyber Security Division 2016 R&D Showcase, Washington, D.C., February 17 2016. [video](https://youtu.be/eKy5XwoUihg)
 
-**Goodall, John R.** "Stucco: Situation and Threat Understanding by Correlating Contextual Observations," Invited Talk. National (Dutch) Cyber Security Research Agenda Symposium, The Hague, Netherlands, June 2 2014.
+**Goodall, John R.** "Stucco: Situation and Threat Understanding by Correlating Contextual Observations." Invited Talk, National (Dutch) Cyber Security Research Agenda Symposium, The Hague, Netherlands, June 2 2014.
 
 Harrison, Lane, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik M. Ferragut, and **John R. Goodall**. ["situ: Situational Understanding and Discovery for Cyber Attacks."](http://dx.doi.org/10.1109/VAST.2012.6400503) VAST Challenge entry.  IEEE Symposium on Visual Analytics Science and Technology (VAST), Seattle, WA, October 2012.
 
-Steed, Chad, Thomas Potak, Robert Patton, **John R. Goodall**, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams," Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.
+Steed, Chad, Thomas Potak, Robert Patton, **John R. Goodall**, Christopher Maness, and James Senter. "Interactive Visual Analysis of High Throughput Text Streams." Poster & Presentation. 2nd IEEE Workshop on Interactive Visual Text Analytics, Seattle, WA, October 15, 2012.
 
-**Goodall, John R.** "Visualization for Text Analysis," Keynote. Text Mining 2011, Mesa AZ, April 30, 2011.
+**Goodall, John R.** "Visualization for Text Analysis." Keynote. Text Mining 2011, Mesa AZ, April 30, 2011.
 
-**Goodall, John R.** "Visualization for Cyber Security," Panel: Visual analytics for the security sector. Visual Analytics Community Consortium Meeting, College Park MD, August 31-September 1, 2010.
+**Goodall, John R.** "Visualization for Cyber Security." Panel: Visual analytics for the security sector. Visual Analytics Community Consortium Meeting, College Park MD, August 31-September 1, 2010.
 
-**Goodall, John R.** "VIAssist: Visual Analytics for Cyber Defense," Panel: DHS Science & Technology Emerging Technologies. GFIRST National Conference, Atlanta GA, August 23-28, 2009.
+**Goodall, John R.** "VIAssist: Visual Analytics for Cyber Defense." Panel: DHS Science & Technology Emerging Technologies. GFIRST National Conference, Atlanta GA, August 23-28, 2009.
 
-**Goodall, John R.** "Information Visualization," Panel: Visualization for Cyber Security. USSS Global Cyber Security Conference, Washington DC, August 4-6, 2009.
+**Goodall, John R.** "Information Visualization." Panel: Visualization for Cyber Security. USSS Global Cyber Security Conference, Washington DC, August 4-6, 2009.
 
-**Goodall, John R.** and Jason K. Kopylec. "VIAssist: Visual Analytics for NetFlow Data," FloCon, Scottsdale AZ, January 12-15, 2009.
+**Goodall, John R.** and Jason K. Kopylec. "VIAssist: Visual Analytics for NetFlow Data." FloCon, Scottsdale AZ, January 12-15, 2009.
 
-**Goodall, John R.** ["Visualizing Network Traffic for Intrusion Detection,"](http://dl.acm.org/authorize?816276) Doctoral Symposium, Proceedings of the ACM Conference on Designing Interactive Systems (DIS), ACM Press, 2006, 363-364.
+**Goodall, John R.** ["Visualizing Network Traffic for Intrusion Detection."](http://dl.acm.org/authorize?816276) Doctoral Symposium, Proceedings of the ACM Conference on Designing Interactive Systems (DIS), ACM Press, 2006, 363-364.
 
 **Goodall, John R.**, Anita Komlodi, and Wayne G. Lutters. "Information Visualization for Intrusion Detection Analysis: A Needs Assessment of Systems and Network Security Experts." Workshop on Statistical and Machine Learning Techniques in Computer Intrusion Detection, Fairfax VA, September 24-26, 2003.
 
 
 # Dissertation #
 
-**Goodall, John R.** ["Defending the Network: Visualizing Network Packets for Intrusion Detection Analysis,"](http://contentdm.ad.umbc.edu/cdm/ref/collection/ETD/id/108) Ph.D. Dissertation, University of Maryland, Baltimore County (UMBC), 2006.
+**Goodall, John R.** ["Defending the Network: Visualizing Network Packets for Intrusion Detection Analysis."](http://contentdm.ad.umbc.edu/cdm/ref/collection/ETD/id/108) Ph.D. Dissertation, University of Maryland, Baltimore County (UMBC), 2006.

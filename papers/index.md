@@ -95,9 +95,9 @@ Bridges, Robert A., Maria A. Vincent, Kelly M. Huffer, **John R. Goodall**, Jess
 
 Nichols, Laurence and **John R. Goodall**. ["Log Monitoring and Anomaly Detection at Scale at ORNL."](https://www.fbcinc.com/e/nlit/presentations/Nichols-Log_monitoring_and_anomaly_detection_at_sc.pdf) NLIT Summit, May 23 2018.
 
-Nichols, Laurence and **John R. Goodall**. "Situ: Discovering Suspicious Behavior." Elasticsearch Federal User Group meeting, August 16 2017.
-
 Steed, Chad A., Junghoon Chae, **John R. Goodall**, and Steven Hahn. ["Improving Scientific Data Analysis Through Multi-touch Enabled Interactive Data Visualization With Applications to Neutron Science."](https://groups.inf.ed.ac.uk/vishub/immersiveanalytics/papers/IA_2772-paper.pdf) Workshop on Immersive Analytics, 2017.
+
+Nichols, Laurence and **John R. Goodall**. "Situ: Discovering Suspicious Behavior." Elasticsearch Federal User Group meeting, August 16 2017.
 
 Pachuilo, A., Eric Ragan, and **John R. Goodall**. "Leveraging Interaction History for Intelligent Configuration of Multiple Coordinated Views in Visualization Tools," [Logging Interactive Visualizations and Visualizing Interaction Logs Workshop](https://livvil.github.io/workshop/) at IEEE VIS, 2016. [paper](https://livvil.github.io/workshop/papers/paper03-pachuilo.pdf)
 

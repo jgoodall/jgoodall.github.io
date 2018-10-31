@@ -5,7 +5,7 @@ title: Papers
 
 ## Refereed Journal Publications
 
-**Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics, 2018. *To Appear*
+**Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics, 2018, 1-11.
 
 Czejdo, Bogdan, Erik M. Ferragut, **John R. Goodall**, and Jason Laska. ["Data warehouse for event streams violating rules."](http://dx.doi.org/10.2478/fcds-2013-0001) Foundations of Computing and Decision Sciences 38(2), 2013, 87–96.
 

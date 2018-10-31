@@ -17,7 +17,7 @@ title: John Goodall
 description: John Goodall is Research Scientist at Oak Ridge National Laboratory.
 author: johnrgoodall
 email: jgoodall@ornl.gov
-phone: 865-446-0611
+phone: 865.446.0611
 
 # For use with [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 social:
@@ -41,4 +41,4 @@ linkedin:
 github:
   username: jgoodall
 
-cv_url: https://www.dropbox.com/s/sgxga9hr5rs6o9i/goodall_cv.pdf?dl=0
+cv_url: https://www.dropbox.com/s/sgxga9hr5rs6o9i/goodall_cv.pdf?dl=1

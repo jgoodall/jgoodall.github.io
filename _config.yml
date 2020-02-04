@@ -42,4 +42,8 @@ linkedin:
 github:
   username: jgoodall
 
-cv_url: https://www.dropbox.com/s/sgxga9hr5rs6o9i/goodall_cv.pdf?dl=1
+# Direct link:
+#   cv_url: https://www.dropbox.com/s/sgxga9hr5rs6o9i/goodall_cv.pdf?dl=1
+# Using [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
+cv_url: /cv
+

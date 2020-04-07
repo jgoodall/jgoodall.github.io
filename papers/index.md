@@ -5,6 +5,8 @@ title: Papers
 
 ## Refereed Journal Publications
 
+Steed, Chad A., **John R. Goodall**, Junghoon Chae, Artem Trofimov. "CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences." To appear in Computers & Graphics. (Accepted 3/29/2020).
+
 **Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics 25(1), 2019, 204-214. [video preview](https://vimeo.com/289787635).
 
 Czejdo, Bogdan, Erik M. Ferragut, **John R. Goodall**, and Jason Laska. ["Data warehouse for event streams violating rules."](http://dx.doi.org/10.2478/fcds-2013-0001) Foundations of Computing and Decision Sciences 38(2), 2013, 87–96.
@@ -23,6 +25,12 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 
 
 ## Refereed Conference Publications
+
+Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. "Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
+
+Ragan, Eric, Andrew Stamps, and **John R. Goodall**. "Empirical Study of Focus-Plus-Context and Aggregation Techniques for the Visualization of Streaming Data." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
+
+Chae, Junghoon, Chad A Steed, **John R. Goodall**, and Steven Hahn. ["Dynamic Color Mapping with a Multi-scale Histogram: A Design Study with Physical Scientists."](https://doi.org/10.2352/ISSN.2470-1173.2019.1.VDA-680) Visualization and Data Analysis, Society for Imaging Sciences and Technology, 2019, 680-1-680-13.
 
 Bridges, Robert A., Kelly M. T. Huffer, Corinne L. Jones, Michael D. Iannacone and **John R. Goodall**. ["Cybersecurity Automated Information Extraction Techniques: Drawbacks of Current Methods, and Enhanced Extractors."](https://doi.org/10.1109/ICMLA.2017.0-122) IEEE International Conference on Machine Learning and Applications (ICMLA), IEEE Press, 2017, 437-442.
 

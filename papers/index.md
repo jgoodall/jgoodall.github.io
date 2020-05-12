@@ -5,7 +5,7 @@ title: Papers
 
 ## Refereed Journal Publications
 
-Steed, Chad A., **John R. Goodall**, Junghoon Chae, Artem Trofimov. "CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences." To appear in Computers & Graphics. (Accepted 3/29/2020).
+Steed, Chad A., **John R. Goodall**, Junghoon Chae, Artem Trofimov. ["CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences."](https://doi.org/10.1016/j.gvc.2020.200013) Computers & Graphics. *In Press.*
 
 **Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics 25(1), 2019, 204-214. [video preview](https://vimeo.com/289787635).
 

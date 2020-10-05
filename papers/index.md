@@ -26,7 +26,7 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 
 ## Refereed Conference Publications
 
-Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. "Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
+Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. "Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020. <i class='fas fa-fw fa-award'></i>[Honorable Mention Award](https://sites.google.com/unisa.it/avi2020/program/awards)
 
 Ragan, Eric, Andrew Stamps, and **John R. Goodall**. "Empirical Study of Focus-Plus-Context and Aggregation Techniques for the Visualization of Streaming Data." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
 

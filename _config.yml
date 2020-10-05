@@ -7,8 +7,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
-kramdown:
-  input: GFM
+markdown: GFM
 
 future: false
 paginate: 5

@@ -26,9 +26,9 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 
 ## Refereed Conference Publications
 
-Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. "Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020. <i class='fas fa-fw fa-award'></i>[Honorable Mention Award](https://sites.google.com/unisa.it/avi2020/program/awards)
+Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. ["Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations."](https://dl.acm.org/doi/10.1145/3399715.3399832?cid=81100461685) Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020. <i class='fas fa-fw fa-award'></i>[Honorable Mention Award](https://sites.google.com/unisa.it/avi2020/program/awards)
 
-Ragan, Eric, Andrew Stamps, and **John R. Goodall**. "Empirical Study of Focus-Plus-Context and Aggregation Techniques for the Visualization of Streaming Data." To appear in Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
+Ragan, Eric, Andrew Stamps, and **John R. Goodall**. ["Empirical Study of Focus-Plus-Context and Aggregation Techniques for the Visualization of Streaming Data."](https://dl.acm.org/doi/10.1145/3399715.3399832?cid=81100461685) Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
 
 Chae, Junghoon, Chad A Steed, **John R. Goodall**, and Steven Hahn. ["Dynamic Color Mapping with a Multi-scale Histogram: A Design Study with Physical Scientists."](https://doi.org/10.2352/ISSN.2470-1173.2019.1.VDA-680) Visualization and Data Analysis, Society for Imaging Sciences and Technology, 2019, 680-1-680-13.
 

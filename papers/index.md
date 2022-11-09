@@ -5,6 +5,8 @@ title: Papers
 
 ## Refereed Journal Publications
 
+Block, Jeremy E., Shaghayegh Esmaeili, Eric D. Ragan, **John R. Goodall**, G. David Richardson. ["The Influence of Visual Provenance Representations on Strategies in a Collaborative Hand-off Data Analysis Scenario."](https://doi.org/10.1109/TVCG.2022.3209495) IEEE Transactions on Visualization and Computer Graphics, 2022.
+
 Steed, Chad A., **John R. Goodall**, Junghoon Chae, Artem Trofimov. ["CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences."](https://doi.org/10.1016/j.gvc.2020.200013) Computers & Graphics 3(200013), 2020.
 
 **Goodall, John R.**, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. ["Situ: Identifying and Explaining Suspicious Behavior in Networks."](https://doi.org/10.1109/TVCG.2018.2865029) IEEE Transactions on Visualization and Computer Graphics 25(1), 2019, 204-214. [video preview](https://vimeo.com/289787635).
@@ -29,6 +31,8 @@ D'Amico, Anita D., **John R. Goodall**, Daniel R. Tesone, and Jason K. Kopylec. 
 Ragan, Eric, Andrew Pachuilo, **John R. Goodall**, and Felipe Bacim. ["Preserving Contextual Awareness during Selection of Moving Targets in Animated Stream Visualizations."](https://dl.acm.org/doi/10.1145/3399715.3399832?cid=81100461685) Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020. <i class='fas fa-fw fa-award'></i>[Honorable Mention Award](https://sites.google.com/unisa.it/avi2020/program/awards)
 
 Ragan, Eric, Andrew Stamps, and **John R. Goodall**. ["Empirical Study of Focus-Plus-Context and Aggregation Techniques for the Visualization of Streaming Data."](https://dl.acm.org/doi/10.1145/3399715.3399832?cid=81100461685) Proceedings of International Conference on Advanced Visual Interfaces (AVI), 2020.
+
+Oesch, Sean, Robert Bridges, Jared Smith, Justin Beaver, **John Goodall**, Kelly Huffer, Craig Miles, and Dan Scofield. ["An Assessment of the Usability of Machine Learning Based Tools for the Security Operations Center."](https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics50389.2020.00111) 2020 International Conferences on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), 2020, 634-641.
 
 Chae, Junghoon, Chad A Steed, **John R. Goodall**, and Steven Hahn. ["Dynamic Color Mapping with a Multi-scale Histogram: A Design Study with Physical Scientists."](https://doi.org/10.2352/ISSN.2470-1173.2019.1.VDA-680) Visualization and Data Analysis, Society for Imaging Sciences and Technology, 2019, 680-1-680-13.
 

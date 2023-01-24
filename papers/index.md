@@ -5,7 +5,7 @@ title: Papers
 
 ## Refereed Journal Publications
 
-Block, Jeremy E., Shaghayegh Esmaeili, Eric D. Ragan, **John R. Goodall**, G. David Richardson. ["The Influence of Visual Provenance Representations on Strategies in a Collaborative Hand-off Data Analysis Scenario."](https://doi.org/10.1109/TVCG.2022.3209495) IEEE Transactions on Visualization and Computer Graphics, 2022.
+Block, Jeremy E., Shaghayegh Esmaeili, Eric D. Ragan, **John R. Goodall**, G. David Richardson. ["The Influence of Visual Provenance Representations on Strategies in a Collaborative Hand-off Data Analysis Scenario."](https://doi.org/10.1109/TVCG.2022.3209495) IEEE Transactions on Visualization and Computer Graphics 29(1), 2022, 1113-1123.
 
 Steed, Chad A., **John R. Goodall**, Junghoon Chae, Artem Trofimov. ["CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences."](https://doi.org/10.1016/j.gvc.2020.200013) Computers & Graphics 3(200013), 2020.
 
